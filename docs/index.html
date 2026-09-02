@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#071522" />
+    <meta
+      name="description"
+      content="Biblioteca profesional de materiales terapéuticos, actividades y herramientas de evaluación."
+    />
+    <title>Kit Intervención | Recursos para profesionales</title>
+    <link rel="icon" type="image/jpeg" href="assets/brand-logo.jpg" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-glow page-glow-one" aria-hidden="true"></div>
+    <div class="page-glow page-glow-two" aria-hidden="true"></div>
+
+    <header class="site-header" id="inicio">
+      <div class="container header-inner">
+        <a class="brand" href="#inicio" aria-label="Kit Intervención, inicio">
+          <span class="brand-mark">
+            <img src="assets/brand-logo.jpg" alt="" />
+          </span>
+          <span class="brand-copy">
+            <strong>Kit Intervención</strong>
+            <small>Biblioteca profesional</small>
+          </span>
+        </a>
+
+        <button class="menu-toggle" id="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav">
+          <span></span><span></span><span></span>
+          <span class="sr-only">Abrir menú</span>
+        </button>
+
+        <nav class="main-nav" id="main-nav" aria-label="Navegación principal">
+          <a href="#catalogo">Biblioteca</a>
+          <a href="#como-funciona">Cómo funciona</a>
+          <a href="#tests">Evaluación</a>
+          <a href="#preguntas">Preguntas</a>
+          <button class="button button-small button-primary" type="button" data-buy="all">
+            Ver biblioteca completa
+          </button>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="announcement" aria-label="Novedad">
+        <div class="container announcement-inner">
+          <span class="announcement-icon" aria-hidden="true">✦</span>
+          <p><strong>Catálogo en organización</strong> · Explora las áreas disponibles; la publicación se activará por etapas.</p>
+          <a href="#catalogo">Explorar <span aria-hidden="true">→</span></a>
+        </div>
+      </section>
+
+      <section class="hero container">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="eyebrow-dot"></span> Herramientas para acompañar mejor</p>
+          <h1>Tu biblioteca clínica, <span>más clara y práctica.</span></h1>
+          <p class="hero-text">
+            Materiales terapéuticos, actividades y herramientas de evaluación organizados para profesionales que trabajan con infancia, adolescencia y adulto mayor.
+          </p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#catalogo">Explorar recursos <span aria-hidden="true">→</span></a>
+            <button class="button button-ghost" type="button" data-buy="all">Acceder a la biblioteca completa</button>
+          </div>
+          <div class="trust-row" aria-label="Características del catálogo">
+            <span><i>✓</i> Descarga digital</span>
+            <span><i>✓</i> Uso profesional</span>
+            <span><i>✓</i> Actualizaciones</span>
+          </div>
+        </div>
+
+        <div class="hero-visual" aria-label="Vista previa de la biblioteca">
+          <div class="visual-backdrop"></div>
+          <div class="visual-orbit orbit-one"></div>
+          <div class="visual-orbit orbit-two"></div>
+          <div class="logo-panel">
+            <span class="panel-kicker">RECURSOS PARA TU PRÁCTICA</span>
+            <div class="logo-frame"><img src="assets/brand-logo.jpg" alt="Identidad visual de Gestión Psicológica" /></div>
+            <strong>Intervención con sentido</strong>
+            <small>Material pensado para acompañar cada proceso.</small>
+          </div>
+          <div class="floating-card floating-card-top">
+            <span class="floating-icon icon-aqua">⌁</span>
+            <span><strong>+779 archivos</strong><small>identificados en revisión</small></span>
+          </div>
+          <div class="floating-card floating-card-bottom">
+            <span class="floating-icon icon-yellow">✦</span>
+            <span><strong>Listo para usar</strong><small>en cada sesión</small></span>
+          </div>
+        </div>
+      </section>
+
+      <section class="audience container" aria-label="Poblaciones de trabajo">
+        <div class="audience-heading"><span class="section-label">DISEÑADO PARA</span><strong>Distintas etapas, una biblioteca.</strong></div>
+        <div class="audience-list">
+          <span class="audience-pill pill-aqua"><b>◌</b> Infancia</span>
+          <span class="audience-pill pill-blue"><b>↗</b> Adolescencia</span>
+          <span class="audience-pill pill-gold"><b>✦</b> Adulto mayor</span>
+          <span class="audience-pill pill-pink"><b>♡</b> Familias y cuidadores</span>
+        </div>
+      </section>
+
+      <section class="catalog-section container" id="catalogo">
+        <div class="section-heading">
+          <div>
+            <p class="section-label">BIBLIOTECA PROFESIONAL</p>
+            <h2>Encuentra el recurso que necesitas.</h2>
+            <p>Busca por población, temática o tipo de herramienta.</p>
+          </div>
+          <div class="catalog-count"><strong id="result-count">0</strong><span>categorías<br />identificadas</span></div>
+        </div>
+
+        <div class="catalog-toolbar">
+          <label class="search-box" for="resource-search">
+            <span aria-hidden="true">⌕</span>
+            <input id="resource-search" type="search" placeholder="Buscar recursos, temas o actividades…" autocomplete="off" />
+          </label>
+          <div class="filter-row" id="filter-row" role="group" aria-label="Filtrar recursos">
+            <button class="filter-chip is-active" type="button" data-filter="all">Todos</button>
+            <button class="filter-chip" type="button" data-filter="infancia">Infancia</button>
+            <button class="filter-chip" type="button" data-filter="adolescencia">Adolescencia</button>
+            <button class="filter-chip" type="button" data-filter="adulto-mayor">Adulto mayor</button>
+            <button class="filter-chip" type="button" data-filter="materiales">Materiales</button>
+            <button class="filter-chip" type="button" data-filter="tests">Tests y evaluación</button>
+            <button class="filter-chip" type="button" data-filter="packs">Packs</button>
+          </div>
+        </div>
+
+        <div class="resource-grid" id="resource-grid" aria-live="polite"></div>
+        <div class="empty-state is-hidden" id="empty-state">
+          <span class="empty-icon">⌕</span>
+          <h3>No encontramos ese recurso</h3>
+          <p>Prueba con otra palabra o limpia los filtros para continuar explorando.</p>
+          <button class="button button-ghost" type="button" id="clear-search">Mostrar todos los recursos</button>
+        </div>
+      </section>
+
+      <section class="featured container">
+        <div class="featured-content">
+          <p class="section-label">ACCESO COMPLETO</p>
+          <h2>Una biblioteca que crece contigo.</h2>
+          <p>Accede a los kits disponibles, nuevas actividades y actualizaciones desde un mismo lugar.</p>
+          <button class="button button-light" type="button" data-buy="all">Quiero la biblioteca completa <span aria-hidden="true">→</span></button>
+        </div>
+        <div class="featured-decoration" aria-hidden="true">
+          <span class="deco-ring ring-a"></span><span class="deco-ring ring-b"></span><span class="deco-star">✦</span>
+        </div>
+      </section>
+
+      <section class="how-section container" id="como-funciona">
+        <div class="section-heading compact-heading">
+          <div><p class="section-label">SIMPLE Y DIRECTO</p><h2>De la búsqueda a tu sesión.</h2></div>
+          <p>Elige el formato de acceso que mejor se adapte a tu práctica profesional.</p>
+        </div>
+        <div class="steps-grid">
+          <article class="step-card"><span class="step-number">01</span><span class="step-icon icon-blue">⌕</span><h3>Explora</h3><p>Revisa las categorías, las muestras y la información de cada recurso.</p></article>
+          <article class="step-card"><span class="step-number">02</span><span class="step-icon icon-aqua">＋</span><h3>Elige</h3><p>Compra un recurso individual, un pack temático o la biblioteca completa.</p></article>
+          <article class="step-card"><span class="step-number">03</span><span class="step-icon icon-yellow">↓</span><h3>Descarga</h3><p>Recibe las instrucciones de acceso y utiliza el material cuando lo necesites.</p></article>
+        </div>
+      </section>
+
+      <section class="tests-section container" id="tests">
+        <div class="tests-card">
+          <div class="tests-icon">◎</div>
+          <div class="tests-copy">
+            <p class="section-label">EVALUACIÓN PROFESIONAL</p>
+            <h2>Tests y herramientas para valorar cada proceso.</h2>
+            <p>Explora instrumentos propios y recursos autorizados. La aplicación e interpretación siempre quedan bajo criterio profesional.</p>
+          </div>
+          <button class="button button-ghost" type="button" data-filter-jump="tests">Ver evaluación <span aria-hidden="true">→</span></button>
+        </div>
+      </section>
+
+      <section class="faq-section container" id="preguntas">
+        <div class="section-heading compact-heading"><div><p class="section-label">ANTES DE COMPRAR</p><h2>Preguntas frecuentes.</h2></div></div>
+        <div class="faq-grid">
+          <details><summary>¿Puedo comprar un solo recurso?</summary><p>Sí. Cada material puede ofrecerse de forma individual. También habrá packs y una opción de acceso completo.</p></details>
+          <details><summary>¿Cómo recibo el material?</summary><p>Después de la compra recibirás las instrucciones de acceso y descarga en el correo registrado en Hotmart.</p></details>
+          <details><summary>¿Los recursos son para pacientes o profesionales?</summary><p>La biblioteca está dirigida a profesionales. Cada ficha indicará si incluye material para entregar a pacientes, familias o cuidadores.</p></details>
+          <details><summary>¿Los tests sustituyen una evaluación clínica?</summary><p>No. Son herramientas de apoyo profesional y no sustituyen la entrevista, la observación ni el juicio clínico.</p></details>
+        </div>
+      </section>
+
+      <section class="final-cta container">
+        <div><p class="section-label">EMPIEZA A ORGANIZAR TU MATERIAL</p><h2>Recursos que acompañan tu manera de intervenir.</h2></div>
+        <a class="button button-primary" href="#catalogo">Ver catálogo <span aria-hidden="true">→</span></a>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div class="footer-brand"><span class="brand-mark small-mark"><img src="assets/brand-logo.jpg" alt="" /></span><span><strong>Kit Intervención</strong><small>Biblioteca profesional</small></span></div>
+        <div class="footer-links"><a href="#catalogo">Biblioteca</a><a href="#preguntas">Preguntas</a><a id="contact-link" href="#">Contacto</a></div>
+        <p>© <span id="current-year"></span> Gestión Psicológica</p>
+      </div>
+    </footer>
+
+    <dialog class="resource-modal" id="resource-modal" aria-labelledby="modal-title">
+      <div class="modal-inner">
+        <button class="modal-close" id="modal-close" type="button" aria-label="Cerrar">×</button>
+        <div class="modal-topline"><span class="modal-icon" id="modal-icon"></span><span class="resource-type" id="modal-type"></span></div>
+        <h2 id="modal-title"></h2>
+        <p class="modal-description" id="modal-description"></p>
+        <div class="modal-meta" id="modal-meta"></div>
+        <div class="modal-includes"><p class="section-label">INCLUYE</p><ul id="modal-includes-list"></ul></div>
+        <div class="modal-actions"><button class="button button-primary" id="modal-buy" type="button">Ver opciones de compra <span aria-hidden="true">→</span></button><button class="button button-ghost" id="modal-back" type="button">Seguir explorando</button></div>
+      </div>
+    </dialog>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <script src="site-config.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -7,27 +7,17 @@ Página estática lista para publicarse en el repositorio público de GitHub Pag
 - `docs/index.html`: estructura y contenido de la página.
 - `docs/styles.css`: identidad visual, tarjetas y adaptación responsive.
 - `docs/app.js`: catálogo, búsqueda, filtros, modal de detalle y navegación.
-- `docs/site-config.js`: enlaces de Hotmart y correo de contacto.
+- `docs/site-config.js`: correo de contacto opcional del catálogo.
 - `docs/assets/brand-logo.jpg`: logotipo de Gestión Psicológica.
 - `recursos/`: biblioteca completa organizada por categorías; se abre desde el explorador público de GitHub para ver o descargar cada archivo.
 
-## Configurar Hotmart
+## Flujo de acceso
 
-Abrir `docs/site-config.js` y pegar los enlaces reales en los campos `hotmartLinks`:
+Hotmart se configura fuera de este catálogo. El enlace de entrega o redirección de Hotmart debe llevar a:
 
-```js
-window.SITE_CONFIG = {
-  contactEmail: "tu-correo@ejemplo.com",
-  hotmartLinks: {
-    all: "https://pay.hotmart.com/ENLACE-BIBLIOTECA",
-    individual: "https://pay.hotmart.com/ENLACE-INDIVIDUAL",
-    pack: "https://pay.hotmart.com/ENLACE-PACK",
-    tests: "https://pay.hotmart.com/ENLACE-TESTS"
-  }
-};
-```
+`https://psidavidflores.github.io/paquete-intervencion/`
 
-Mientras los enlaces estén vacíos, la página mostrará un aviso y no enviará al visitante a una dirección ficticia.
+Desde esta página el comprador explora las categorías, abre las carpetas públicas del repositorio y descarga los archivos que necesite. El catálogo no contiene botones de compra ni enlaces de Hotmart.
 
 ## Publicación
 

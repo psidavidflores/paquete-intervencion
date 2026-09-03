@@ -1,13 +1,4 @@
-/*
- * Configuración sencilla del catálogo.
- * Pega aquí los enlaces reales de Hotmart cuando estén disponibles.
- */
+/* Configuración sencilla del catálogo de acceso y descarga. */
 window.SITE_CONFIG = {
-  contactEmail: "",
-  hotmartLinks: {
-    all: "",
-    individual: "",
-    pack: "",
-    tests: ""
-  }
+  contactEmail: ""
 };

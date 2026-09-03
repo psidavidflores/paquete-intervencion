@@ -13,7 +13,6 @@ const resourceData = [
     icon: "⌁",
     tag: "Infancia",
     includes: ["Actividades de atención y concentración", "Material de grafomotricidad", "Cuentos y recursos adaptados"],
-    purchase: "pack"
   },
   {
     id: "autorregulacion-infantil",
@@ -29,7 +28,6 @@ const resourceData = [
     icon: "♡",
     tag: "Autorregulación",
     includes: ["Técnica de la tortuga", "Ejercicios de relajación", "Fichas para trabajar rabietas e impulsividad"],
-    purchase: "pack",
     page: "recursos/control-enfado/"
   },
   {
@@ -46,7 +44,6 @@ const resourceData = [
     icon: "≈",
     tag: "Lenguaje",
     includes: ["Cuadernillos de lenguaje oral", "Actividades de habilidades fonológicas", "Material para distintos niveles"],
-    purchase: "pack"
   },
   {
     id: "inteligencias-multiples",
@@ -62,7 +59,6 @@ const resourceData = [
     icon: "✦",
     tag: "Aprendizaje",
     includes: ["Actividades de inteligencias múltiples", "Recursos de aprendizaje cooperativo", "Material de consulta profesional"],
-    purchase: "pack"
   },
   {
     id: "juegos-interactivos",
@@ -78,7 +74,6 @@ const resourceData = [
     icon: "✧",
     tag: "Más amplio",
     includes: ["Material para colorear", "Juegos interactivos educativos", "Cuentos en video"],
-    purchase: "all"
   },
   {
     id: "adulto-mayor",
@@ -94,7 +89,6 @@ const resourceData = [
     icon: "✺",
     tag: "Adulto mayor",
     includes: ["Ejercicios de estimulación cognitiva", "Actividades de memoria y conversación", "Material para acompañamiento familiar"],
-    purchase: "pack"
   },
   {
     id: "autismo",
@@ -110,7 +104,6 @@ const resourceData = [
     icon: "◎",
     tag: "Pack",
     includes: ["Cuentos sociales y cuentos TEA", "Actividades de habilidades sociales", "Guías para familias y docentes"],
-    purchase: "pack"
   },
   {
     id: "super-educativo",
@@ -126,7 +119,6 @@ const resourceData = [
     icon: "↗",
     tag: "Pack",
     includes: ["Actividades de dislexia", "Material de discalculia", "Ejercicios de memoria y razonamiento"],
-    purchase: "pack"
   },
   {
     id: "tdah",
@@ -142,7 +134,6 @@ const resourceData = [
     icon: "✦",
     tag: "Pack",
     includes: ["Fichas de atención y memoria", "Actividades de razonamiento lógico", "Juegos Go/No-Go y planificación"],
-    purchase: "pack"
   },
   {
     id: "sindrome-down",
@@ -158,7 +149,6 @@ const resourceData = [
     icon: "◌",
     tag: "Desarrollo",
     includes: ["Material de lectoescritura", "Habilidades tempranas de comunicación", "Recursos para familias y educadores"],
-    purchase: "pack"
   },
   {
     id: "terapia-lenguaje",
@@ -174,7 +164,6 @@ const resourceData = [
     icon: "⌁",
     tag: "Biblioteca",
     includes: ["Cuadernillos y fichas de lenguaje", "Material de lectoescritura", "Recursos para habla y tartamudez"],
-    purchase: "all"
   },
   {
     id: "evaluacion-revision",
@@ -189,7 +178,6 @@ const resourceData = [
     icon: "◉",
     tag: "Revisión pendiente",
     includes: ["Identificación de instrumentos candidatos", "Revisión de licencia y autorización de uso", "Adaptación funcional para la plataforma"],
-    purchase: "tests"
   }
 ];
 
@@ -248,7 +236,7 @@ function cardTemplate(resource) {
       <h3>${escapeHtml(resource.title)}</h3>
       <p class="card-description">${escapeHtml(resource.description)}</p>
       <div class="card-meta"><span>${escapeHtml(resource.audience)}</span><span>${escapeHtml(resource.area)}</span></div>
-      <div class="card-actions">${resourceAction}<button class="card-buy" type="button" data-buy="${escapeHtml(resource.purchase)}" aria-label="Comprar ${escapeHtml(resource.title)}">＋</button></div>
+      <div class="card-actions">${resourceAction}</div>
     </article>`;
 }
 
@@ -267,15 +255,6 @@ function showToast(message) {
   toastTimer = window.setTimeout(() => toast.classList.remove("is-visible"), 4200);
 }
 
-function openHotmart(key) {
-  const url = window.SITE_CONFIG?.hotmartLinks?.[key];
-  if (!url) {
-    showToast("El enlace de Hotmart todavía está pendiente de configuración.");
-    return;
-  }
-  window.open(url, "_blank", "noopener,noreferrer");
-}
-
 const modal = document.querySelector("#resource-modal");
 const modalTitle = document.querySelector("#modal-title");
 const modalDescription = document.querySelector("#modal-description");
@@ -283,16 +262,12 @@ const modalType = document.querySelector("#modal-type");
 const modalIcon = document.querySelector("#modal-icon");
 const modalMeta = document.querySelector("#modal-meta");
 const modalIncludes = document.querySelector("#modal-includes-list");
-const modalBuy = document.querySelector("#modal-buy");
-let modalResource = null;
-
 function closeModal() {
   if (typeof modal.close === "function" && modal.open) modal.close();
   modal.classList.remove("is-open");
 }
 
 function openModal(resource) {
-  modalResource = resource;
   modalTitle.textContent = resource.title;
   modalDescription.textContent = resource.description;
   modalType.textContent = resource.type;
@@ -310,9 +285,6 @@ document.addEventListener("click", (event) => {
     const resource = resourceData.find((item) => item.id === previewButton.dataset.preview);
     if (resource) openModal(resource);
   }
-
-  const buyButton = event.target.closest("[data-buy]");
-  if (buyButton) openHotmart(buyButton.dataset.buy);
 
   const filterButton = event.target.closest("[data-filter]");
   if (filterButton) {
@@ -339,7 +311,6 @@ document.querySelector("#clear-search").addEventListener("click", () => {
 });
 document.querySelector("#modal-close").addEventListener("click", closeModal);
 document.querySelector("#modal-back").addEventListener("click", closeModal);
-modalBuy.addEventListener("click", () => { if (modalResource) openHotmart(modalResource.purchase); });
 modal.addEventListener("click", (event) => { if (event.target === modal) closeModal(); });
 
 const menuToggle = document.querySelector("#menu-toggle");

@@ -36,4 +36,6 @@ Los dos videos de más de 100 MiB requieren Git LFS. GitHub bloquea esos archivo
 
 ## Advertencia de acceso
 
-El repositorio es público. Hotmart puede dirigir a los compradores al catálogo, pero GitHub no comprueba quién compró: cualquier persona que obtenga la URL podrá acceder a los archivos publicados.
+El flujo previsto es: Hotmart confirma la compra y redirige al comprador a `https://psidavidflores.github.io/paquete-intervencion/`. El catálogo no solicita pagos ni muestra enlaces de compra; sirve para explorar y descargar.
+
+El repositorio es público y GitHub no comprueba quién compró: cualquier persona que obtenga la URL podrá acceder a los archivos publicados.

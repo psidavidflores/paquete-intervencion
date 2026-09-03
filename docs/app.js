@@ -59,12 +59,12 @@ function githubFilePath(path) {
   return path.split("/").map((part) => encodeURIComponent(part)).join("/");
 }
 
-function githubFileUrl(path) {
-  return `${GITHUB_REPOSITORY}/blob/main/${githubFilePath(path)}`;
-}
-
 function githubRawUrl(path) {
   return `https://raw.githubusercontent.com/psidavidflores/paquete-intervencion/main/${githubFilePath(path)}`;
+}
+
+function filePreviewUrl(path) {
+  return githubRawUrl(path);
 }
 
 function resourceFolder(resource) {
@@ -142,7 +142,7 @@ function fileCard(file) {
         <p class="file-location" title="${path}">${location}</p>
         <div class="file-card-actions">
           <a class="download-link" href="${escapeHtml(githubRawUrl(file.path))}" target="_blank" rel="noopener" download>Descargar</a>
-          <a class="view-link" href="${escapeHtml(githubFileUrl(file.path))}" target="_blank" rel="noopener">Ver</a>
+          <a class="view-link" href="${escapeHtml(filePreviewUrl(file.path))}" target="_blank" rel="noopener">Ver</a>
         </div>
       </div>
     </article>`;

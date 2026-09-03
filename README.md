@@ -6,10 +6,11 @@ Página estática lista para publicarse en el repositorio público de GitHub Pag
 
 - `docs/index.html`: estructura y contenido de la página.
 - `docs/styles.css`: identidad visual, tarjetas y adaptación responsive.
-- `docs/app.js`: catálogo, búsqueda, filtros, modal de detalle y navegación.
+- `docs/app.js`: catálogo, búsqueda, filtros y explorador interno de archivos.
+- `docs/resources.json`: índice de los 778 archivos publicados, organizado por categoría.
 - `docs/site-config.js`: correo de contacto opcional del catálogo.
 - `docs/assets/brand-logo.jpg`: logotipo de Gestión Psicológica.
-- `recursos/`: biblioteca completa organizada por categorías; se abre desde el explorador público de GitHub para ver o descargar cada archivo.
+- `recursos/`: biblioteca completa organizada por categorías; la página muestra cada archivo y enlaza a GitHub para verlo o descargarlo.
 
 ## Flujo de acceso
 
@@ -17,7 +18,7 @@ Hotmart se configura fuera de este catálogo. El enlace de entrega o redirecció
 
 `https://psidavidflores.github.io/paquete-intervencion/`
 
-Desde esta página el comprador explora las categorías, abre las carpetas públicas del repositorio y descarga los archivos que necesite. El catálogo no contiene botones de compra ni enlaces de Hotmart.
+Desde esta página el comprador explora las categorías, pulsa `Ver archivos`, busca dentro de cada categoría y abre o descarga cada recurso. El catálogo no contiene botones de compra ni enlaces de Hotmart.
 
 ## Publicación
 
@@ -30,4 +31,4 @@ Desde esta página el comprador explora las categorías, abre las carpetas públ
 
 Este repositorio es público. Solo deben colocarse aquí el catálogo y los recursos autorizados para publicación. Los tests protegidos, manuales, baremos, claves y datos clínicos no deben subirse a este repositorio. GitHub no verifica compras de Hotmart: cualquier persona que tenga el enlace podrá ver o descargar los archivos publicados.
 
-Los recursos están fuera de `docs` para que la página publicada sea liviana. Las tarjetas llevan a las carpetas públicas del repositorio, donde cada comprador puede abrir o descargar el archivo que necesite.
+Los recursos están fuera de `docs` para que la página publicada sea liviana. `docs/resources.json` contiene únicamente el índice de rutas; los archivos siguen alojados en las carpetas públicas del repositorio.

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+  <title id="title">Vista previa PDF</title>
+  <desc id="desc">Vista previa no disponible para este PDF</desc>
+  <rect width="900" height="650" fill="#f7f3eb"/>
+  <rect x="70" y="70" width="760" height="510" rx="22" fill="#fffdf9" stroke="#e4ddd2" stroke-width="4"/>
+  <rect x="70" y="70" width="760" height="32" rx="16" fill="#67ddd4"/>
+  <rect x="145" y="175" width="170" height="170" rx="28" fill="#e2f5f1"/>
+  <text x="230" y="285" text-anchor="middle" fill="#0c2034" font-family="Arial, sans-serif" font-size="58" font-weight="700">PDF</text>
+  <text x="370" y="250" fill="#0c2034" font-family="Arial, sans-serif" font-size="34" font-weight="700">Documento PDF</text>
+  <text x="370" y="300" fill="#8b8d89" font-family="Arial, sans-serif" font-size="23">Vista previa no disponible</text>
+  <rect x="145" y="420" width="610" height="12" rx="6" fill="#e4ddd2"/>
+  <rect x="145" y="460" width="470" height="12" rx="6" fill="#e4ddd2"/>
+  <rect x="145" y="500" width="550" height="12" rx="6" fill="#f9c234"/>
+</svg>

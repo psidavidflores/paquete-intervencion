@@ -14,20 +14,6 @@ const resourceData = [
 ];
 
 const GITHUB_REPOSITORY = "https://github.com/psidavidflores/paquete-intervencion";
-const GITHUB_RESOURCE_BASE = `${GITHUB_REPOSITORY}/tree/main/recursos`;
-const folderById = {
-  atencion: "atencion",
-  "autorregulacion-infantil": "control-enfado",
-  "estimulacion-lenguaje": "estimulacion-lenguaje",
-  "inteligencias-multiples": "inteligencias-multiples",
-  "juegos-interactivos": "juegos-interactivos",
-  "adulto-mayor": "adulto-mayor",
-  autismo: "autismo",
-  "super-educativo": "super-educativo",
-  tdah: "tdha",
-  "sindrome-down": "sindrome-down",
-  "terapia-lenguaje": "terapia-lenguaje"
-};
 
 const state = { filter: "all", query: "" };
 const embeddedManifest = window.__RESOURCE_MANIFEST__;
@@ -47,7 +33,7 @@ const fileTotal = document.querySelector("#file-total");
 const sidebarFileTotal = document.querySelector("#sidebar-file-total");
 const filesTitle = document.querySelector("#files-title");
 const filesTotal = document.querySelector("#files-total");
-const folderLink = document.querySelector("#folder-link");
+const sectionDownload = document.querySelector("#download-section");
 const fileEmptyTitle = document.querySelector("#file-empty-title");
 const fileEmptyCopy = document.querySelector("#file-empty-copy");
 
@@ -63,17 +49,28 @@ function githubRawUrl(path) {
   return `https://raw.githubusercontent.com/psidavidflores/paquete-intervencion/main/${githubFilePath(path)}`;
 }
 
-function filePreviewUrl(path) {
-  return githubRawUrl(path);
+function encodedPath(path) {
+  return path.split("/").map((part) => encodeURIComponent(part)).join("/");
 }
 
-function resourceFolder(resource) {
-  return folderById[resource.id] || "";
+function localResourceUrl(path) {
+  const prefix = window.location.protocol === "file:" ? "../" : "";
+  return `${prefix}${encodedPath(path)}`;
 }
 
-function resourcePage(resource) {
-  const folder = resourceFolder(resource);
-  return folder ? `${GITHUB_RESOURCE_BASE}/${folder}` : "";
+function previewUrl(file) {
+  if (file.preview) return file.preview;
+  if (["jpg", "jpeg", "png", "gif", "webp"].includes(file.extension)) return localResourceUrl(file.path);
+  return "";
+}
+
+function previewMarkup(file, extension) {
+  const preview = previewUrl(file);
+  const typeClass = `type-${extension.replace(/[^a-z0-9]/g, "")}`;
+  if (preview) {
+    return `<div class="file-preview has-thumbnail"><img src="${escapeHtml(preview)}" alt="Vista previa de ${escapeHtml(file.name)}" loading="lazy" /><span class="file-type">${extension.toUpperCase()}</span></div>`;
+  }
+  return `<div class="file-preview file-preview-type ${typeClass}"><span class="file-icon">${fileIcon(extension)}</span><span class="file-type">${extension.toUpperCase()}</span></div>`;
 }
 
 function totalIndexedFiles() {
@@ -136,16 +133,176 @@ function fileCard(file) {
   const extension = escapeHtml(file.extension || "archivo").toLowerCase();
   return `
     <article class="file-card">
-      <div class="file-preview"><span class="file-icon">${fileIcon(extension)}</span><span class="file-type">${extension.toUpperCase()}</span></div>
+      ${previewMarkup(file, extension)}
       <div class="file-card-body">
         <h3 title="${name}">${name}</h3>
+        <p class="file-size">${escapeHtml(file.size || "Archivo digital")}</p>
         <p class="file-location" title="${path}">${location}</p>
         <div class="file-card-actions">
-          <a class="download-link" href="${escapeHtml(githubRawUrl(file.path))}" target="_blank" rel="noopener" download>Descargar</a>
-          <a class="view-link" href="${escapeHtml(filePreviewUrl(file.path))}" target="_blank" rel="noopener">Ver</a>
+          <a class="download-link" href="${escapeHtml(localResourceUrl(file.path))}" download><span aria-hidden="true">⇩</span> Descargar</a>
         </div>
       </div>
     </article>`;
+}
+
+const CRC_TABLE = Array.from({ length: 256 }, (_, index) => {
+  let value = index;
+  for (let bit = 0; bit < 8; bit += 1) value = value & 1 ? 0xedb88320 ^ (value >>> 1) : value >>> 1;
+  return value >>> 0;
+});
+const SECTION_ARCHIVE_LIMIT = 300 * 1024 * 1024;
+let toastTimer;
+
+function showToast(message) {
+  const toast = document.querySelector("#toast");
+  if (!toast) return;
+  window.clearTimeout(toastTimer);
+  toast.textContent = message;
+  toast.classList.add("is-visible");
+  toastTimer = window.setTimeout(() => toast.classList.remove("is-visible"), 5500);
+}
+
+function fileByteSize(file) {
+  if (Number.isFinite(file.bytes)) return file.bytes;
+  const match = String(file.size || "").replace(",", ".").match(/([\d.]+)\s*(B|KB|MB|GB)/i);
+  if (!match) return 0;
+  const units = { B: 1, KB: 1024, MB: 1024 ** 2, GB: 1024 ** 3 };
+  return Number(match[1]) * (units[match[2].toUpperCase()] || 1);
+}
+
+function humanBytes(bytes) {
+  if (bytes < 1024) return `${Math.round(bytes)} B`;
+  if (bytes < 1024 ** 2) return `${(bytes / 1024).toFixed(1)} KB`;
+  if (bytes < 1024 ** 3) return `${(bytes / 1024 ** 2).toFixed(1)} MB`;
+  return `${(bytes / 1024 ** 3).toFixed(2)} GB`;
+}
+
+function zipPath(file) {
+  return file.path.split("/").slice(2).join("/") || file.name;
+}
+
+function crc32(bytes) {
+  let value = 0xffffffff;
+  for (const byte of bytes) value = CRC_TABLE[(value ^ byte) & 0xff] ^ (value >>> 8);
+  return (value ^ 0xffffffff) >>> 0;
+}
+
+function writeZip16(view, offset, value) { view.setUint16(offset, value, true); }
+function writeZip32(view, offset, value) { view.setUint32(offset, value >>> 0, true); }
+
+function createZip(entries) {
+  const encoder = new TextEncoder();
+  const localParts = [];
+  const centralParts = [];
+  let offset = 0;
+  let centralSize = 0;
+
+  for (const entry of entries) {
+    const name = encoder.encode(entry.name);
+    const checksum = crc32(entry.data);
+    const local = new Uint8Array(30 + name.length);
+    const localView = new DataView(local.buffer);
+    writeZip32(localView, 0, 0x04034b50);
+    writeZip16(localView, 4, 20);
+    writeZip16(localView, 6, 0x0800);
+    writeZip16(localView, 8, 0);
+    writeZip32(localView, 14, checksum);
+    writeZip32(localView, 18, entry.data.length);
+    writeZip32(localView, 22, entry.data.length);
+    writeZip16(localView, 26, name.length);
+    local.set(name, 30);
+    localParts.push(local, entry.data);
+
+    const central = new Uint8Array(46 + name.length);
+    const centralView = new DataView(central.buffer);
+    writeZip32(centralView, 0, 0x02014b50);
+    writeZip16(centralView, 4, 20);
+    writeZip16(centralView, 6, 20);
+    writeZip16(centralView, 8, 0x0800);
+    writeZip16(centralView, 10, 0);
+    writeZip32(centralView, 16, checksum);
+    writeZip32(centralView, 20, entry.data.length);
+    writeZip32(centralView, 24, entry.data.length);
+    writeZip16(centralView, 28, name.length);
+    writeZip32(centralView, 42, offset);
+    central.set(name, 46);
+    centralParts.push(central);
+    centralSize += central.length;
+    offset += local.length + entry.data.length;
+  }
+
+  const end = new Uint8Array(22);
+  const endView = new DataView(end.buffer);
+  writeZip32(endView, 0, 0x06054b50);
+  writeZip16(endView, 8, entries.length);
+  writeZip16(endView, 10, entries.length);
+  writeZip32(endView, 12, centralSize);
+  writeZip32(endView, 16, offset);
+  return new Blob([...localParts, ...centralParts, end], { type: "application/zip" });
+}
+
+async function fetchResourceData(file) {
+  const urls = [localResourceUrl(file.path), githubRawUrl(file.path)];
+  const tried = new Set();
+  for (const url of urls) {
+    if (tried.has(url)) continue;
+    tried.add(url);
+    try {
+      const response = await fetch(url);
+      if (response.ok) return new Uint8Array(await response.arrayBuffer());
+    } catch (error) {
+      // Try the repository's raw file as a fallback for local previews.
+    }
+  }
+  throw new Error(`No se pudo leer ${file.name}`);
+}
+
+function archiveName(title) {
+  return `${title.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-zA-Z0-9]+/g, "-").replace(/^-|-$/g, "").toLowerCase() || "seccion"}.zip`;
+}
+
+async function downloadSection() {
+  const resourceId = currentResourceId;
+  const resource = resourceData.find((item) => item.id === resourceId);
+  const files = resourceFiles[resourceId] || [];
+  if (!resource || !files.length) {
+    showToast("Esta sección todavía no tiene archivos publicados.");
+    return;
+  }
+
+  const estimatedSize = files.reduce((total, file) => total + fileByteSize(file), 0);
+  if (estimatedSize > SECTION_ARCHIVE_LIMIT) {
+    showToast(`Esta sección pesa aproximadamente ${humanBytes(estimatedSize)}. Por su tamaño, descarga los archivos individualmente.`);
+    return;
+  }
+
+  sectionDownload.dataset.busy = "true";
+  sectionDownload.disabled = true;
+  sectionDownload.innerHTML = '<span aria-hidden="true">⌛</span> Preparando…';
+  try {
+    const entries = [];
+    for (let index = 0; index < files.length; index += 1) {
+      const file = files[index];
+      sectionDownload.innerHTML = `<span aria-hidden="true">⌛</span> ${index + 1}/${files.length}`;
+      entries.push({ name: zipPath(file), data: await fetchResourceData(file) });
+    }
+    const archive = createZip(entries);
+    const objectUrl = URL.createObjectURL(archive);
+    const link = document.createElement("a");
+    link.href = objectUrl;
+    link.download = archiveName(resource.title);
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    window.setTimeout(() => URL.revokeObjectURL(objectUrl), 30000);
+    showToast(`Se preparó la descarga de ${files.length} archivos.`);
+  } catch (error) {
+    showToast("No se pudo preparar la sección. Puedes descargar los archivos individualmente.");
+  } finally {
+    delete sectionDownload.dataset.busy;
+    sectionDownload.disabled = !(resourceFiles[resourceId] || []).length;
+    sectionDownload.innerHTML = '<span aria-hidden="true">⇩</span> Descargar sección';
+  }
 }
 
 function renderFiles() {
@@ -157,6 +314,7 @@ function renderFiles() {
   filesTotal.textContent = files.length
     ? `${visibleFiles.length} de ${files.length} archivos`
     : "Sin archivos publicados";
+  sectionDownload.disabled = !files.length || sectionDownload.dataset.busy === "true";
   fileGrid.innerHTML = visibleFiles.map(fileCard).join("");
   fileGrid.classList.toggle("is-hidden", visibleFiles.length === 0);
   fileEmpty.classList.toggle("is-hidden", visibleFiles.length > 0);
@@ -175,8 +333,7 @@ function openResource(resourceId, updateUrl = true) {
   categoryView.classList.add("is-hidden");
   filesView.classList.remove("is-hidden");
   filesTitle.textContent = resource.title;
-  folderLink.href = resourcePage(resource) || "#";
-  folderLink.classList.toggle("is-hidden", !resourcePage(resource));
+  sectionDownload.disabled = true;
   fileSearch.value = "";
   fileGrid.classList.remove("is-hidden");
   fileEmpty.classList.add("is-hidden");
@@ -211,6 +368,7 @@ document.querySelectorAll("[data-nav-filter]").forEach((item) => item.addEventLi
 
 resourceSearch.addEventListener("input", () => { state.query = resourceSearch.value; renderCategories(); });
 fileSearch.addEventListener("input", renderFiles);
+sectionDownload.addEventListener("click", downloadSection);
 document.querySelector("#back-to-catalog").addEventListener("click", () => showCategories());
 window.addEventListener("popstate", () => {
   const resourceId = window.location.hash.slice(1);

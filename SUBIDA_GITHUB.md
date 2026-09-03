@@ -9,6 +9,7 @@ Sube el contenido completo de `publicacion-github-completa` al repositorio `psid
 - `docs/`: catálogo visual, explorador interno y buscador de archivos.
 - `docs/resources.json`: índice de los 778 archivos publicados.
 - `docs/resources-inline.js`: índice de respaldo para abrir el catálogo directamente desde el equipo.
+- `docs/previews/`: miniaturas visuales de los PDF.
 - `recursos/`: las 11 áreas y las 3 subáreas de juegos.
 - `.gitattributes`: preparación para los dos videos que necesitan Git LFS.
 - `README.md`: documentación del paquete.
@@ -34,7 +35,9 @@ No intentes enviar los 3,74 GB en un único envío. Haz varios commits, por ejem
 4. `recursos/terapia-lenguaje/`.
 5. `recursos/juegos-interactivos/` por sus subcarpetas.
 
-Los dos videos de más de 100 MiB requieren Git LFS. GitHub bloquea esos archivos en una carga Git normal. Git LFS tampoco publica archivos directamente como parte de GitHub Pages; por eso el catálogo muestra el índice de archivos y enlaza cada recurso a GitHub para verlo o descargarlo.
+Los dos videos de más de 100 MiB requieren Git LFS. GitHub bloquea esos archivos en una carga Git normal. Git LFS tampoco publica archivos directamente como parte de GitHub Pages; por eso conviene mantener la carga por etapas. El catálogo muestra el índice, las miniaturas y los botones de descarga directa.
+
+En cada categoría aparece **Descargar sección**. El botón prepara un ZIP desde el navegador para secciones de tamaño moderado; las secciones muy grandes deben descargarse archivo por archivo.
 
 ## Advertencia de acceso
 

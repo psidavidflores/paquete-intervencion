@@ -30,8 +30,9 @@ const folderById = {
 };
 
 const state = { filter: "all", query: "" };
-let resourceFiles = {};
-let filesLoaded = false;
+const embeddedManifest = window.__RESOURCE_MANIFEST__;
+let resourceFiles = embeddedManifest && typeof embeddedManifest === "object" ? embeddedManifest : {};
+let filesLoaded = Object.keys(resourceFiles).length > 0;
 let currentResourceId = "";
 const categoryView = document.querySelector("#catalog-view");
 const filesView = document.querySelector("#files-view");
@@ -97,6 +98,16 @@ function filteredCategories() {
     const haystack = [resource.title, resource.description, resource.audience, resource.area, resource.type].join(" ").toLowerCase();
     return matchesFilter && (!query || haystack.includes(query));
   });
+}
+
+function applyManifest(manifest) {
+  resourceFiles = manifest && typeof manifest === "object" ? manifest : {};
+  filesLoaded = true;
+  resourceData.forEach((resource) => {
+    if (Array.isArray(resourceFiles[resource.id])) resource.fileCount = resourceFiles[resource.id].length;
+  });
+  renderCategories();
+  if (currentResourceId) renderFiles();
 }
 
 function renderCategories() {
@@ -220,18 +231,12 @@ fetch("resources.json", { cache: "no-store" })
     if (!response.ok) throw new Error(`Manifest request failed: ${response.status}`);
     return response.json();
   })
-  .then((manifest) => {
-    resourceFiles = manifest;
-    filesLoaded = true;
-    resourceData.forEach((resource) => {
-      if (Array.isArray(resourceFiles[resource.id])) resource.fileCount = resourceFiles[resource.id].length;
-    });
-    renderCategories();
-    if (currentResourceId) renderFiles();
-  })
+  .then(applyManifest)
   .catch(() => {
-    filesLoaded = true;
-    if (currentResourceId) renderFiles();
+    if (!filesLoaded) {
+      filesLoaded = true;
+      if (currentResourceId) renderFiles();
+    }
   });
 
 const initialResourceId = window.location.hash.slice(1);

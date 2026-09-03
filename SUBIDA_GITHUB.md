@@ -8,6 +8,7 @@ Sube el contenido completo de `publicacion-github-completa` al repositorio `psid
 
 - `docs/`: catálogo visual, explorador interno y buscador de archivos.
 - `docs/resources.json`: índice de los 778 archivos publicados.
+- `docs/resources-inline.js`: índice de respaldo para abrir el catálogo directamente desde el equipo.
 - `recursos/`: las 11 áreas y las 3 subáreas de juegos.
 - `.gitattributes`: preparación para los dos videos que necesitan Git LFS.
 - `README.md`: documentación del paquete.

@@ -8,6 +8,7 @@ Página estática lista para publicarse en el repositorio público de GitHub Pag
 - `docs/styles.css`: identidad visual, tarjetas y adaptación responsive.
 - `docs/app.js`: catálogo, búsqueda, filtros y explorador interno de archivos.
 - `docs/resources.json`: índice de los 778 archivos publicados, organizado por categoría.
+- `docs/resources-inline.js`: copia del índice para que la página también funcione al abrirla localmente.
 - `docs/site-config.js`: correo de contacto opcional del catálogo.
 - `docs/assets/brand-logo.jpg`: logotipo de Gestión Psicológica.
 - `recursos/`: biblioteca completa organizada por categorías; la página muestra cada archivo y enlaza a GitHub para verlo o descargarlo.
@@ -18,7 +19,7 @@ Hotmart se configura fuera de este catálogo. El enlace de entrega o redirecció
 
 `https://psidavidflores.github.io/paquete-intervencion/`
 
-Desde esta página el comprador explora las categorías, pulsa `Ver archivos`, busca dentro de cada categoría y abre o descarga cada recurso. El catálogo no contiene botones de compra ni enlaces de Hotmart.
+Desde esta página el comprador explora las categorías, abre una categoría, busca dentro de ella y visualiza o descarga cada recurso. El catálogo no contiene botones de compra ni enlaces de Hotmart.
 
 ## Publicación
 

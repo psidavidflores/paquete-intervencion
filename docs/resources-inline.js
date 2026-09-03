@@ -1,0 +1,3914 @@
+window.__RESOURCE_MANIFEST__ = {
+  "atencion": [
+    {
+      "name": "Cuaderno-de-atencion-y-motricidad-para-educacion-infantil.pdf",
+      "path": "recursos/atencion/ACTIVIDADES DIDACTICOS PARA  LA ATENCIÓN/Cuaderno-de-atencion-y-motricidad-para-educacion-infantil.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "50-ejercicios-de-lecto-escritura-para-preescolar-y-primaria-1-25.pdf",
+      "path": "recursos/atencion/ACTIVIDADES DIDACTICOS PARA  LA ATENCIÓN/Dislalia/50-ejercicios-de-lecto-escritura-para-preescolar-y-primaria-1-25.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "50-ejercicios-de-lecto-escritura-para-preescolar-y-primaria-25-52.pdf",
+      "path": "recursos/atencion/ACTIVIDADES DIDACTICOS PARA  LA ATENCIÓN/Dislalia/50-ejercicios-de-lecto-escritura-para-preescolar-y-primaria-25-52.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Ejercicios-para-la-dislalia-infantil.pdf",
+      "path": "recursos/atencion/ACTIVIDADES DIDACTICOS PARA  LA ATENCIÓN/Dislalia/Ejercicios-para-la-dislalia-infantil.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "TABLA-PERIODICA-EMOCIONES-A3.pdf",
+      "path": "recursos/atencion/ACTIVIDADES DIDACTICOS PARA  LA ATENCIÓN/Dislalia/TABLA-PERIODICA-EMOCIONES-A3.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "TABLA-PERIODICA-EMOCIONES-POSTER-1-METRO.pdf",
+      "path": "recursos/atencion/ACTIVIDADES DIDACTICOS PARA  LA ATENCIÓN/Dislalia/TABLA-PERIODICA-EMOCIONES-POSTER-1-METRO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Comparto _evaluacion ENCUENTRO CON FAMILIAS_ contigo.docx",
+      "path": "recursos/atencion/CIEGOS/Control de pataletas/Comparto _evaluacion ENCUENTRO CON FAMILIAS_ contigo.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Comparto _Manejo respetuoso de las pataletas_ contigo.doc",
+      "path": "recursos/atencion/CIEGOS/Control de pataletas/Comparto _Manejo respetuoso de las pataletas_ contigo.doc",
+      "extension": "doc"
+    },
+    {
+      "name": "Comparto _Qué es una pataleta_ contigo.pptx",
+      "path": "recursos/atencion/CIEGOS/Control de pataletas/Comparto _Qué es una pataleta_ contigo.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "evaluacion ENCUENTRO CON FAMILIAS.docx.pdf",
+      "path": "recursos/atencion/CIEGOS/Control de pataletas/evaluacion ENCUENTRO CON FAMILIAS.docx.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos 861-Aprendiendo_braille_junto_a_cantaletras.pdf",
+      "path": "recursos/atencion/CIEGOS/Correos electrónicos 861-Aprendiendo_braille_junto_a_cantaletras.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos 879-En_los_zapatos_de_los_ninos_ciegos_Guia_de_desarrollo_de_0_a_3_anos.pdf",
+      "path": "recursos/atencion/CIEGOS/Correos electrónicos 879-En_los_zapatos_de_los_ninos_ciegos_Guia_de_desarrollo_de_0_a_3_anos.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos alfabeto braille.pdf",
+      "path": "recursos/atencion/CIEGOS/Correos electrónicos alfabeto braille.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos cartilla material didactico para estudiantes con dv.pdf",
+      "path": "recursos/atencion/CIEGOS/Correos electrónicos cartilla material didactico para estudiantes con dv.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos Discapacidad-Visual (1).pdf",
+      "path": "recursos/atencion/CIEGOS/Correos electrónicos Discapacidad-Visual (1).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos discapacidad-visual.pdf",
+      "path": "recursos/atencion/CIEGOS/Correos electrónicos discapacidad-visual.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos edtv_30.pdf",
+      "path": "recursos/atencion/CIEGOS/Correos electrónicos edtv_30.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos FUENTES - Diseño de imágenes para ciegos, material didáctico para niños con discapacidad visual-1.pdf",
+      "path": "recursos/atencion/CIEGOS/Correos electrónicos FUENTES - Diseño de imágenes para ciegos, material didáctico para niños con discapacidad visual-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos guia-atencion-estudiantes-discapacidad-visual.pdf",
+      "path": "recursos/atencion/CIEGOS/Correos electrónicos guia-atencion-estudiantes-discapacidad-visual.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos PdfServlet.pdf",
+      "path": "recursos/atencion/CIEGOS/Correos electrónicos PdfServlet.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos PROPUESTA DIDÁCTICA BRAILLE PRIMARIA.pdf",
+      "path": "recursos/atencion/CIEGOS/Correos electrónicos PROPUESTA DIDÁCTICA BRAILLE PRIMARIA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CUENTOS PARA QUEDARSE EN CASA.pdf",
+      "path": "recursos/atencion/CUENTOS DEL CORONAVIRUS/CUENTOS PARA QUEDARSE EN CASA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "EL ESCUDO PROTECTOR CONTRA EL REY VIRUS.pdf",
+      "path": "recursos/atencion/CUENTOS DEL CORONAVIRUS/EL ESCUDO PROTECTOR CONTRA EL REY VIRUS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "EL VIRUS CON CORONA.pdf",
+      "path": "recursos/atencion/CUENTOS DEL CORONAVIRUS/EL VIRUS CON CORONA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ELENA EN CUARENTENA.pdf",
+      "path": "recursos/atencion/CUENTOS DEL CORONAVIRUS/ELENA EN CUARENTENA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LOS DIAS EN QUE TODO SE DETUVO.pdf",
+      "path": "recursos/atencion/CUENTOS DEL CORONAVIRUS/LOS DIAS EN QUE TODO SE DETUVO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MI CASA ES UN CASTILLO.pdf",
+      "path": "recursos/atencion/CUENTOS DEL CORONAVIRUS/MI CASA ES UN CASTILLO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MISIÓN QUEDARTE EN CASA.pdf",
+      "path": "recursos/atencion/CUENTOS DEL CORONAVIRUS/MISIÓN QUEDARTE EN CASA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "QUE PASA EN EL MUNDO.pdf",
+      "path": "recursos/atencion/CUENTOS DEL CORONAVIRUS/QUE PASA EN EL MUNDO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "QUIERO SALIR.pdf",
+      "path": "recursos/atencion/CUENTOS DEL CORONAVIRUS/QUIERO SALIR.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ROSA CONTRA EL VIRUS.pdf",
+      "path": "recursos/atencion/CUENTOS DEL CORONAVIRUS/ROSA CONTRA EL VIRUS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "SOY UN VIRUS.pdf",
+      "path": "recursos/atencion/CUENTOS DEL CORONAVIRUS/SOY UN VIRUS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos orientacion-andujar-pautas-y-actividades-para-trabajar-la-atencion.pdf",
+      "path": "recursos/atencion/EJERCICIOS Y PAUTAS PARA LA CONCENTRACIÓN/Correos electrónicos orientacion-andujar-pautas-y-actividades-para-trabajar-la-atencion.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "•Sencillas•Fichas•Grafomotricidad.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/•Sencillas•Fichas•Grafomotricidad.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "19Cuaderno de Grafomotricidad .pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/19Cuaderno de Grafomotricidad .pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Activity Book 4_5 SP.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Activity Book 4_5 SP.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Activity Book 6_7 SP.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Activity Book 6_7 SP.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuadernito de Motricidad Fina.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Cuadernito de Motricidad Fina.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuaderno Caligrafía Artística.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Cuaderno Caligrafía Artística.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuaderno Pregrafimanía.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Cuaderno Pregrafimanía.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Fichas de preescritura.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Fichas de preescritura.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FICHAS GRAFO MOD.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/FICHAS GRAFO MOD.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Fichas Grafomotricidad 1.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Fichas Grafomotricidad 1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "gr-01-cuadernillo-grafomotricidad-infantil.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/gr-01-cuadernillo-grafomotricidad-infantil.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Grafimania 1.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Grafimania 1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Grafimania 2.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Grafimania 2.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Grafomotricidad .pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Grafomotricidad .pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "grafomotricidad-3-años.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/grafomotricidad-3-años.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "grafomotricidad.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/grafomotricidad.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Llavero-para-trabajar-la-Grafomotricidad.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Llavero-para-trabajar-la-Grafomotricidad.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Mega Llavero Grafomotricidad.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Mega Llavero Grafomotricidad.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Pre-grafimania 2.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/Pre-grafimania 2.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "trazos grafomotricidad.pdf",
+      "path": "recursos/atencion/GRAFOMOTRICIDAD/trazos grafomotricidad.pdf",
+      "extension": "pdf"
+    }
+  ],
+  "autorregulacion-infantil": [
+    {
+      "name": "calmamos-nuestras-emociones-el-cuento-del-niño-y-la-tortuga.pdf",
+      "path": "recursos/control-enfado/calmamos-nuestras-emociones-el-cuento-del-niño-y-la-tortuga.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Como-gestionar-las-rabietas-en-5-pasos.pdf",
+      "path": "recursos/control-enfado/Como-gestionar-las-rabietas-en-5-pasos.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Controlar-la-impulsividad-en-niños.pdf",
+      "path": "recursos/control-enfado/Controlar-la-impulsividad-en-niños.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "cosas-sobre-mi (1).pdf",
+      "path": "recursos/control-enfado/cosas-sobre-mi (1).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "diario-de-una-autoestima-positiva.pdf",
+      "path": "recursos/control-enfado/diario-de-una-autoestima-positiva.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Ejercicios-de-relajacion.pdf",
+      "path": "recursos/control-enfado/Ejercicios-de-relajacion.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "El-autocontrol-de-la-conducta-impulsiva-La-técnica-de-la-Tortuga.pdf",
+      "path": "recursos/control-enfado/El-autocontrol-de-la-conducta-impulsiva-La-técnica-de-la-Tortuga.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "el-cuento-de-la-tortuga-autocontrol-tdah.pdf",
+      "path": "recursos/control-enfado/el-cuento-de-la-tortuga-autocontrol-tdah.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "el-cuento-de-la-tortuga-FICHA-DE-RECOMPENSA.pdf",
+      "path": "recursos/control-enfado/el-cuento-de-la-tortuga-FICHA-DE-RECOMPENSA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "El-entrenamiento-cognitivo-en-autoinstrucciones.pdf",
+      "path": "recursos/control-enfado/El-entrenamiento-cognitivo-en-autoinstrucciones.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Inhalo-y-exhalo-Educación-emocional-en-infantil-ficha-de-trabajo.pdf",
+      "path": "recursos/control-enfado/Inhalo-y-exhalo-Educación-emocional-en-infantil-ficha-de-trabajo.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Juego-de-la-tortuga-para-trabajar-técnicas-de-autocontrol-para-niños-de-primaria.pdf",
+      "path": "recursos/control-enfado/Juego-de-la-tortuga-para-trabajar-técnicas-de-autocontrol-para-niños-de-primaria.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MIS-TAREAS-DE-DIA-Y-DE-NOCHE-NIÑO.pdf",
+      "path": "recursos/control-enfado/MIS-TAREAS-DE-DIA-Y-DE-NOCHE-NIÑO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MODULO-4-TEMA-5-HERRAMIENTAS-PARA-LA-GESTION-EMOCIONAL-DEL-ENFADO-EN-LOS-NIÑOS-V1 (1).pdf",
+      "path": "recursos/control-enfado/MODULO-4-TEMA-5-HERRAMIENTAS-PARA-LA-GESTION-EMOCIONAL-DEL-ENFADO-EN-LOS-NIÑOS-V1 (1).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "No-seas-un-angry-bird-tarjetas-por-De-los-tales.pdf",
+      "path": "recursos/control-enfado/No-seas-un-angry-bird-tarjetas-por-De-los-tales.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Programa-para-trabajar-las-habilidades-prosociales-en-niños-de-infantil-o-preescolar.pdf",
+      "path": "recursos/control-enfado/Programa-para-trabajar-las-habilidades-prosociales-en-niños-de-infantil-o-preescolar.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "rutinas-y-habitos-en-educacion-infantil.pdf",
+      "path": "recursos/control-enfado/rutinas-y-habitos-en-educacion-infantil.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Semáforo-de-las-emociones-en-infantil-ficha-de-trabajo.pdf",
+      "path": "recursos/control-enfado/Semáforo-de-las-emociones-en-infantil-ficha-de-trabajo.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Sencillas-frases-e-imágenes-para-trabajar-LAS-EMOCIONES-TAMAÑO-REDUCIDO-.pdf",
+      "path": "recursos/control-enfado/Sencillas-frases-e-imágenes-para-trabajar-LAS-EMOCIONES-TAMAÑO-REDUCIDO-.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "tabla-relajacion.doc",
+      "path": "recursos/control-enfado/tabla-relajacion.doc",
+      "extension": "doc"
+    },
+    {
+      "name": "Tecnica del globo.docx",
+      "path": "recursos/control-enfado/Tecnica del globo.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "tecnica-de-la-tortuga.png",
+      "path": "recursos/control-enfado/tecnica-de-la-tortuga.png",
+      "extension": "png"
+    },
+    {
+      "name": "tecnicas-de-relajacion-para-ninos (1).doc",
+      "path": "recursos/control-enfado/tecnicas-de-relajacion-para-ninos (1).doc",
+      "extension": "doc"
+    },
+    {
+      "name": "tecnicas-de-relajacion-para-ninos.doc",
+      "path": "recursos/control-enfado/tecnicas-de-relajacion-para-ninos.doc",
+      "extension": "doc"
+    },
+    {
+      "name": "Técnicas-de-Relajación-y-Masajes-para-niños-y-niñas.pdf",
+      "path": "recursos/control-enfado/Técnicas-de-Relajación-y-Masajes-para-niños-y-niñas.pdf",
+      "extension": "pdf"
+    }
+  ],
+  "estimulacion-lenguaje": [
+    {
+      "name": "Correos electrónicos LENGUAJE.pdf",
+      "path": "recursos/estimulacion-lenguaje/Correos electrónicos LENGUAJE.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos materiales-para-trabajar-las-habilidades-fonologicas-CREENA.pdf",
+      "path": "recursos/estimulacion-lenguaje/Correos electrónicos materiales-para-trabajar-las-habilidades-fonologicas-CREENA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CUADERNILLO-DE-LENGUAJE-3-pdf.pdf",
+      "path": "recursos/estimulacion-lenguaje/CUADERNILLO-DE-LENGUAJE-3-pdf.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuadernillo-Trabajo-Niveles-Del-Lenguaje.pdf",
+      "path": "recursos/estimulacion-lenguaje/Cuadernillo-Trabajo-Niveles-Del-Lenguaje.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuaderno actividades para estimular el lenguaje Red Cenit.pdf",
+      "path": "recursos/estimulacion-lenguaje/Cuaderno actividades para estimular el lenguaje Red Cenit.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Libro-de-Estimulacion-Del-Lenguaje-Oral.pdf",
+      "path": "recursos/estimulacion-lenguaje/Libro-de-Estimulacion-Del-Lenguaje-Oral.pdf",
+      "extension": "pdf"
+    }
+  ],
+  "inteligencias-multiples": [
+    {
+      "name": "Educacion artistica y desarrollo humano - Howard Gardner.pdf",
+      "path": "recursos/inteligencias-multiples/Educacion artistica y desarrollo humano - Howard Gardner.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Estructuras de la mente - Howard Gardner.pdf",
+      "path": "recursos/inteligencias-multiples/Estructuras de la mente - Howard Gardner.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Gardner Howard - Arte Mente Y Cerebro.PDF",
+      "path": "recursos/inteligencias-multiples/Gardner Howard - Arte Mente Y Cerebro.PDF",
+      "extension": "pdf"
+    },
+    {
+      "name": "Gardner Howard - Educacion Artistica Y Desarrollo Humano.PDF",
+      "path": "recursos/inteligencias-multiples/Gardner Howard - Educacion Artistica Y Desarrollo Humano.PDF",
+      "extension": "pdf"
+    },
+    {
+      "name": "186-Actividades-para-desarrollar-las-inteligencias-multiples.pdf",
+      "path": "recursos/inteligencias-multiples/INTELIGENCIA MULTIPLES (ACTIVIDADES Y MUCHO MÁS)/186-Actividades-para-desarrollar-las-inteligencias-multiples.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "aprendizaje-cooperativo_tcm1069-386292.pdf",
+      "path": "recursos/inteligencias-multiples/INTELIGENCIA MULTIPLES (ACTIVIDADES Y MUCHO MÁS)/aprendizaje-cooperativo_tcm1069-386292.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cómo desarrollar las inteligencias multiples en nuestros estudiantes.pdf",
+      "path": "recursos/inteligencias-multiples/INTELIGENCIA MULTIPLES (ACTIVIDADES Y MUCHO MÁS)/Cómo desarrollar las inteligencias multiples en nuestros estudiantes.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Mapfre-Inteligencia-CORPORAL-color.pdf",
+      "path": "recursos/inteligencias-multiples/INTELIGENCIA MULTIPLES (ACTIVIDADES Y MUCHO MÁS)/Mapfre-Inteligencia-CORPORAL-color.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Mapfre-Inteligencia-EMOCIONAL-color.pdf",
+      "path": "recursos/inteligencias-multiples/INTELIGENCIA MULTIPLES (ACTIVIDADES Y MUCHO MÁS)/Mapfre-Inteligencia-EMOCIONAL-color.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Mapfre-Inteligencia-ESPACIAL-color.pdf",
+      "path": "recursos/inteligencias-multiples/INTELIGENCIA MULTIPLES (ACTIVIDADES Y MUCHO MÁS)/Mapfre-Inteligencia-ESPACIAL-color.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Mapfre-Inteligencia-LINGÜÍSTICA-color.pdf",
+      "path": "recursos/inteligencias-multiples/INTELIGENCIA MULTIPLES (ACTIVIDADES Y MUCHO MÁS)/Mapfre-Inteligencia-LINGÜÍSTICA-color.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Mapfre-Inteligencia-MATEMÁTICA-color.pdf",
+      "path": "recursos/inteligencias-multiples/INTELIGENCIA MULTIPLES (ACTIVIDADES Y MUCHO MÁS)/Mapfre-Inteligencia-MATEMÁTICA-color.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Mapfre-Inteligencia-Musical-color.pdf",
+      "path": "recursos/inteligencias-multiples/INTELIGENCIA MULTIPLES (ACTIVIDADES Y MUCHO MÁS)/Mapfre-Inteligencia-Musical-color.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Mapfre-Inteligencia-NATURALISTA-color.pdf",
+      "path": "recursos/inteligencias-multiples/INTELIGENCIA MULTIPLES (ACTIVIDADES Y MUCHO MÁS)/Mapfre-Inteligencia-NATURALISTA-color.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Inteligencias múltiples. La teoría en la práctica - Howard Gardner.epub",
+      "path": "recursos/inteligencias-multiples/Inteligencias múltiples. La teoría en la práctica - Howard Gardner.epub",
+      "extension": "epub"
+    },
+    {
+      "name": "Inteligencias múltiples. La teoría en la práctica - Howard Gardner.pdf",
+      "path": "recursos/inteligencias-multiples/Inteligencias múltiples. La teoría en la práctica - Howard Gardner.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "La inteligencia reformulada - Howard Gardner.pdf",
+      "path": "recursos/inteligencias-multiples/La inteligencia reformulada - Howard Gardner.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "La mente no escolarizada - Howard Gardner.pdf",
+      "path": "recursos/inteligencias-multiples/La mente no escolarizada - Howard Gardner.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "La-generación-APP_-Cómo-los-jóvenes-gestionan-su-identidad-su-privacidad-y-su-imaginación-en-el-mundo-digital-Howard-Gardner.pdf",
+      "path": "recursos/inteligencias-multiples/La-generación-APP_-Cómo-los-jóvenes-gestionan-su-identidad-su-privacidad-y-su-imaginación-en-el-mundo-digital-Howard-Gardner.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Las cinco mentes del futuro - Howard Gardner.pdf",
+      "path": "recursos/inteligencias-multiples/Las cinco mentes del futuro - Howard Gardner.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Mentes-creativas_-Una-anatomía-de-la-creatividad-Howard-Gardner.pdf",
+      "path": "recursos/inteligencias-multiples/Mentes-creativas_-Una-anatomía-de-la-creatividad-Howard-Gardner.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Verdad belleza y bondad reformuladas - Howard Gardner.pdf",
+      "path": "recursos/inteligencias-multiples/Verdad belleza y bondad reformuladas - Howard Gardner.pdf",
+      "extension": "pdf"
+    }
+  ],
+  "juegos-interactivos": [
+    {
+      "name": "44 GATOS -7p.pdf",
+      "path": "recursos/juegos-interactivos/colorear/44 GATOS -7p.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ABBY HATCHER-5.pdf",
+      "path": "recursos/juegos-interactivos/colorear/ABBY HATCHER-5.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ABC COLOREAR.pdf",
+      "path": "recursos/juegos-interactivos/colorear/ABC COLOREAR.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ABEJA MAYA -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/ABEJA MAYA -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ABOMINABLE - 5.pdf",
+      "path": "recursos/juegos-interactivos/colorear/ABOMINABLE - 5.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ALADIN -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/ALADIN -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ALICIA -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/ALICIA -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ALICIA EN EL PAIS DE LAS MARAVILLAS.pdf",
+      "path": "recursos/juegos-interactivos/colorear/ALICIA EN EL PAIS DE LAS MARAVILLAS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "AMONG US.pdf",
+      "path": "recursos/juegos-interactivos/colorear/AMONG US.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ANGELINA BAILARINA.pdf",
+      "path": "recursos/juegos-interactivos/colorear/ANGELINA BAILARINA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ANGRY BIRDS -33.pdf",
+      "path": "recursos/juegos-interactivos/colorear/ANGRY BIRDS -33.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ANGRY BIRDS -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/ANGRY BIRDS -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ANIMALES DE LA SELVA.pdf",
+      "path": "recursos/juegos-interactivos/colorear/ANIMALES DE LA SELVA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Avengers - 15.pdf",
+      "path": "recursos/juegos-interactivos/colorear/Avengers - 15.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "AVENGERS -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/AVENGERS -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Baby Shark _ Friend-12.pdf",
+      "path": "recursos/juegos-interactivos/colorear/Baby Shark _ Friend-12.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BABY SHARK - 11.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BABY SHARK - 11.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BABY TV.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BABY TV.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BACKYARDIGANS -28.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BACKYARDIGANS -28.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BACKYARDIGANS -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BACKYARDIGANS -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BALLERINA -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BALLERINA -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BAMBY -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BAMBY -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BARBIE -38.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BARBIE -38.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BARBIE -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BARBIE -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BATMAN - 9.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BATMAN - 9.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BATMAN -35.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BATMAN -35.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BATMAN -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BATMAN -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BATMAN.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BATMAN.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BEBÉS LLORONES -22.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BEBÉS LLORONES -22.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BEN 10 -6.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BEN 10 -6.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BEN 10- 10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BEN 10- 10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BEN 10-26.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BEN 10-26.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BLANCA NIEVES -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BLANCA NIEVES -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BLANCANIEVES.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BLANCANIEVES.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BOB EL CONTRUCTOR -6.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BOB EL CONTRUCTOR -6.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "BOB ESPONJA -14.pdf",
+      "path": "recursos/juegos-interactivos/colorear/BOB ESPONJA -14.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CAMPANITA.pdf",
+      "path": "recursos/juegos-interactivos/colorear/CAMPANITA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CAPITAN AMÉRICA -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/CAPITAN AMÉRICA -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CARS -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/CARS -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CARS -14.pdf",
+      "path": "recursos/juegos-interactivos/colorear/CARS -14.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CARS -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/CARS -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cars Coloring.pdf",
+      "path": "recursos/juegos-interactivos/colorear/Cars Coloring.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CARS-8.pdf",
+      "path": "recursos/juegos-interactivos/colorear/CARS-8.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "DINOSAURIOS -32.pdf",
+      "path": "recursos/juegos-interactivos/colorear/DINOSAURIOS -32.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Dinosaurs Coloring.pdf",
+      "path": "recursos/juegos-interactivos/colorear/Dinosaurs Coloring.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "DISNEY-13.pdf",
+      "path": "recursos/juegos-interactivos/colorear/DISNEY-13.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "DISNEY-46.pdf",
+      "path": "recursos/juegos-interactivos/colorear/DISNEY-46.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "DOCTORA JUGUETES -30.pdf",
+      "path": "recursos/juegos-interactivos/colorear/DOCTORA JUGUETES -30.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "DONALD-7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/DONALD-7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "DORA -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/DORA -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "DRAGON BALL -5.pdf",
+      "path": "recursos/juegos-interactivos/colorear/DRAGON BALL -5.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "EMOGGGI -5.pdf",
+      "path": "recursos/juegos-interactivos/colorear/EMOGGGI -5.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "EMOJIS -22.pdf",
+      "path": "recursos/juegos-interactivos/colorear/EMOJIS -22.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "EMOJIS.pdf",
+      "path": "recursos/juegos-interactivos/colorear/EMOJIS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FANCY NANCY -17.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FANCY NANCY -17.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FANCY NANCY-10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FANCY NANCY-10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FORTNITE - 10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FORTNITE - 10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FORTNITE-10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FORTNITE-10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FORTNITE-20.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FORTNITE-20.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FREE FIRE.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FREE FIRE.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FROZEN -8.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FROZEN -8.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FROZEN 2 -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FROZEN 2 -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FROZEN-10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FROZEN-10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FROZEN-12.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FROZEN-12.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FROZEN-49.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FROZEN-49.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FROZEN-9.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FROZEN-9.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FROZEN.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FROZEN.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FRUTILLITAS.pdf",
+      "path": "recursos/juegos-interactivos/colorear/FRUTILLITAS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "GALLINA PINTADITA -15.pdf",
+      "path": "recursos/juegos-interactivos/colorear/GALLINA PINTADITA -15.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "GALLINA PINTADITA -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/GALLINA PINTADITA -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "GALLINA PINTADITA.pdf",
+      "path": "recursos/juegos-interactivos/colorear/GALLINA PINTADITA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "gallinita pintada -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/gallinita pintada -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "GARFIELD -24.pdf",
+      "path": "recursos/juegos-interactivos/colorear/GARFIELD -24.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "GARFIELD.pdf",
+      "path": "recursos/juegos-interactivos/colorear/GARFIELD.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "GEORGE EL CURIOSO -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/GEORGE EL CURIOSO -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "GIGANTOSAURIO -5.pdf",
+      "path": "recursos/juegos-interactivos/colorear/GIGANTOSAURIO -5.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "GRANJA DE ZENON -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/GRANJA DE ZENON -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "GRANJA.pdf",
+      "path": "recursos/juegos-interactivos/colorear/GRANJA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "GRAVITY FALLS -20.pdf",
+      "path": "recursos/juegos-interactivos/colorear/GRAVITY FALLS -20.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "GUMBALL-19.pdf",
+      "path": "recursos/juegos-interactivos/colorear/GUMBALL-19.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HALOWEEN-12.pdf",
+      "path": "recursos/juegos-interactivos/colorear/HALOWEEN-12.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HARRY POTTER -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/HARRY POTTER -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HELLO KITTY -19.pdf",
+      "path": "recursos/juegos-interactivos/colorear/HELLO KITTY -19.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HELLO KITTY -8.pdf",
+      "path": "recursos/juegos-interactivos/colorear/HELLO KITTY -8.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HENRY-5.pdf",
+      "path": "recursos/juegos-interactivos/colorear/HENRY-5.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HORA DE AVENTURAS -18.pdf",
+      "path": "recursos/juegos-interactivos/colorear/HORA DE AVENTURAS -18.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HOT WEELS -5.pdf",
+      "path": "recursos/juegos-interactivos/colorear/HOT WEELS -5.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HOTEL TRANSYLVANIA -21.pdf",
+      "path": "recursos/juegos-interactivos/colorear/HOTEL TRANSYLVANIA -21.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HULL.pdf",
+      "path": "recursos/juegos-interactivos/colorear/HULL.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "JAKE -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/JAKE -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "jefe en pañales -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/jefe en pañales -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "JORGE EL CURIOSO -20.pdf",
+      "path": "recursos/juegos-interactivos/colorear/JORGE EL CURIOSO -20.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "JURASIC -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/JURASIC -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "KAWAI  COLOREAR.pdf",
+      "path": "recursos/juegos-interactivos/colorear/KAWAI  COLOREAR.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "KAWAII -46.pdf",
+      "path": "recursos/juegos-interactivos/colorear/KAWAII -46.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "La granja de Zenón -13.pdf",
+      "path": "recursos/juegos-interactivos/colorear/La granja de Zenón -13.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LADYBUG -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/LADYBUG -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Libro Reyes Magos.pdf",
+      "path": "recursos/juegos-interactivos/colorear/Libro Reyes Magos.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LILO Y STITCH -31.pdf",
+      "path": "recursos/juegos-interactivos/colorear/LILO Y STITCH -31.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LITTLE PONNY.pdf",
+      "path": "recursos/juegos-interactivos/colorear/LITTLE PONNY.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LOL -22.pdf",
+      "path": "recursos/juegos-interactivos/colorear/LOL -22.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LOL -5.pdf",
+      "path": "recursos/juegos-interactivos/colorear/LOL -5.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LOL A5.pdf",
+      "path": "recursos/juegos-interactivos/colorear/LOL A5.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LOL SURPRISE -9.pdf",
+      "path": "recursos/juegos-interactivos/colorear/LOL SURPRISE -9.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Los Jóvenes Titanes en Acción -13.pdf",
+      "path": "recursos/juegos-interactivos/colorear/Los Jóvenes Titanes en Acción -13.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LOS VENGADORES.pdf",
+      "path": "recursos/juegos-interactivos/colorear/LOS VENGADORES.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MADAGASCAR -22.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MADAGASCAR -22.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MANDALAS INFANTILES-20.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MANDALAS INFANTILES-20.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MARBEL-31.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MARBEL-31.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "mario -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/mario -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MARIO BROSS -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MARIO BROSS -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MARIO BROSS -16.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MARIO BROSS -16.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MASHA -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MASHA -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MASHA Y EL OSO -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MASHA Y EL OSO -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MASHA Y EL OSO -56.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MASHA Y EL OSO -56.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "masha y el oso -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/masha y el oso -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MASHA Y EL OSO.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MASHA Y EL OSO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MEDIALUNA -12.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MEDIALUNA -12.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Mermaid-12.pdf",
+      "path": "recursos/juegos-interactivos/colorear/Mermaid-12.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Mermaids.pdf",
+      "path": "recursos/juegos-interactivos/colorear/Mermaids.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MICKEY MOUSE -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MICKEY MOUSE -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MICKEY ROJO.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MICKEY ROJO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "mickey.pdf",
+      "path": "recursos/juegos-interactivos/colorear/mickey.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MILES DEL MAÑANA.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MILES DEL MAÑANA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MINECRAF -11.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MINECRAF -11.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MINECRAFT -34.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MINECRAFT -34.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MINI BEAT - 8.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MINI BEAT - 8.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MINI BEAT POWER ROCKET -8.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MINI BEAT POWER ROCKET -8.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MINI BEATS -15.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MINI BEATS -15.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MINI BEATS -9.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MINI BEATS -9.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MINIONS -30.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MINIONS -30.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MINIONS.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MINIONS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "minnie -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/minnie -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MINNIE -6.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MINNIE -6.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MINNIE (1).pdf",
+      "path": "recursos/juegos-interactivos/colorear/MINNIE (1).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MINNIE BEBE (1).pdf",
+      "path": "recursos/juegos-interactivos/colorear/MINNIE BEBE (1).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MIRACULOUS -11.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MIRACULOUS -11.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MOANA -6.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MOANA -6.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MOANA -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MOANA -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MOANA-7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MOANA-7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Monsters-12.pdf",
+      "path": "recursos/juegos-interactivos/colorear/Monsters-12.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MONSTRUO DE COLORES.pdf",
+      "path": "recursos/juegos-interactivos/colorear/MONSTRUO DE COLORES.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "naruto -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/naruto -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "NAVIDAD-8.pdf",
+      "path": "recursos/juegos-interactivos/colorear/NAVIDAD-8.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "NAVIDAD.pdf",
+      "path": "recursos/juegos-interactivos/colorear/NAVIDAD.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "NEMO -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/NEMO -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "OSITOS CARIÑOSITOS -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/OSITOS CARIÑOSITOS -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "pantas vs zombie -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/pantas vs zombie -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PANTERA ROSA.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PANTERA ROSA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PASCUAS - 9.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PASCUAS - 9.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PATITOS.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PATITOS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PAW PATROL - 16.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PAW PATROL - 16.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PAW PATROL -8.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PAW PATROL -8.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PAW PATROL-41.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PAW PATROL-41.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PEPPA GEORGE.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PEPPA GEORGE.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PEPPA PIG -33.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PEPPA PIG -33.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PEPPA PIG -9.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PEPPA PIG -9.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PEPPA PIG (1).pdf",
+      "path": "recursos/juegos-interactivos/colorear/PEPPA PIG (1).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PEPPA-PIG-3.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PEPPA-PIG-3.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PETIT DE PAKAPAKA -15.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PETIT DE PAKAPAKA -15.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PICAPIEDRAS-10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PICAPIEDRAS-10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PIÑÓN FIJO - 10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PIÑÓN FIJO - 10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PITUFOS -16.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PITUFOS -16.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PJ MASKS-10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PJ MASKS-10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PJMASKS -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PJMASKS -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PLANTAS vs ZOMBIES -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PLANTAS vs ZOMBIES -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PLANTAS VS ZOMBIES -33.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PLANTAS VS ZOMBIES -33.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PLIM PLIM -9.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PLIM PLIM -9.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "POCOYO  7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/POCOYO  7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "POCOYO -44.pdf",
+      "path": "recursos/juegos-interactivos/colorear/POCOYO -44.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "pokemon -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/pokemon -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "POKEMON -9.pdf",
+      "path": "recursos/juegos-interactivos/colorear/POKEMON -9.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "POQUÉMON -33.pdf",
+      "path": "recursos/juegos-interactivos/colorear/POQUÉMON -33.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PORORÓ -18.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PORORÓ -18.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "POWER RANGER - 13.pdf",
+      "path": "recursos/juegos-interactivos/colorear/POWER RANGER - 13.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PRINCESA SOFIA -15.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PRINCESA SOFIA -15.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PRINCESAS - 26.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PRINCESAS - 26.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PRINCESAS DISNEY -81.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PRINCESAS DISNEY -81.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PRINCESAS PARA PINTAR -34.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PRINCESAS PARA PINTAR -34.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PRINCESAS-17.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PRINCESAS-17.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PRINCESITA SOFIA-8.pdf",
+      "path": "recursos/juegos-interactivos/colorear/PRINCESITA SOFIA-8.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "puppy dog -10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/puppy dog -10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Puppy Dog Pals -8.pdf",
+      "path": "recursos/juegos-interactivos/colorear/Puppy Dog Pals -8.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "rampuzel -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/rampuzel -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "REY LEÓN - 7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/REY LEÓN - 7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "REY LEÓN -11.pdf",
+      "path": "recursos/juegos-interactivos/colorear/REY LEÓN -11.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "TOYS STORY - 10.pdf",
+      "path": "recursos/juegos-interactivos/colorear/TOYS STORY - 10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "TOYS STORY -55.pdf",
+      "path": "recursos/juegos-interactivos/colorear/TOYS STORY -55.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "TROLLS-28.pdf",
+      "path": "recursos/juegos-interactivos/colorear/TROLLS-28.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Unicorn Coloring .pdf",
+      "path": "recursos/juegos-interactivos/colorear/Unicorn Coloring .pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "UNICORNIOS - 13.pdf",
+      "path": "recursos/juegos-interactivos/colorear/UNICORNIOS - 13.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "UNICORNIOS -9.pdf",
+      "path": "recursos/juegos-interactivos/colorear/UNICORNIOS -9.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "UP -7.pdf",
+      "path": "recursos/juegos-interactivos/colorear/UP -7.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Bambi el venado .mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/Bambi el venado .mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "CANCIÓN INFANTIL.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/CANCIÓN INFANTIL.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "cortometraje - La vida facil.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/cortometraje - La vida facil.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "El abuelo y el nieto.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/El abuelo y el nieto.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "El cascanueces.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/El cascanueces.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "El verdadero valor de la amistad.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/El verdadero valor de la amistad.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "El viejo árbol.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/El viejo árbol.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "El zapatero y los duendes.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/El zapatero y los duendes.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "El zorrito y la cigüeña.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/El zorrito y la cigüeña.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "El zorro y el cuervo.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/El zorro y el cuervo.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "Jack y la habichuelas mágicas .mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/Jack y la habichuelas mágicas .mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "La bella y la bestia.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/La bella y la bestia.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "La leyenda de la sirena Azul.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/La leyenda de la sirena Azul.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "La nueva serpiente.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/La nueva serpiente.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "La pequeña cerillera.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/La pequeña cerillera.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "La pequeña Oruga.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/La pequeña Oruga.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "La ratita presumida.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/La ratita presumida.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "La tetera.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/La tetera.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "Las doce princesas.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/Las doce princesas.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "Llevame contigo.mp4",
+      "path": "recursos/juegos-interactivos/cuentos-video/Llevame contigo.mp4",
+      "extension": "mp4"
+    },
+    {
+      "name": "1 al 20. COLORIDO.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/1 al 20. COLORIDO.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "20animales 1.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/20animales 1.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "919375-la-navidad-1207738209771323-8.ppt",
+      "path": "recursos/juegos-interactivos/juegos-educativos/919375-la-navidad-1207738209771323-8.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "ABSURDOS VISUALES..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ABSURDOS VISUALES..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "ABSURDOS VISUALES.ppsx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ABSURDOS VISUALES.ppsx",
+      "extension": "ppsx"
+    },
+    {
+      "name": "ADIVINANZAS 1.ppsx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ADIVINANZAS 1.ppsx",
+      "extension": "ppsx"
+    },
+    {
+      "name": "Adivinanzas.ppt",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Adivinanzas.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "ALIMENTACIÒN SALUDABLE Y CHATARRA 1.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ALIMENTACIÒN SALUDABLE Y CHATARRA 1.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "ALIMENTOS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ALIMENTOS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "ANIMALES MARINOS (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ANIMALES MARINOS (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "ANIMALES MARINOS_ 1.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ANIMALES MARINOS_ 1.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "ANIMALES SALVAJES _ 1.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ANIMALES SALVAJES _ 1.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "animales-3.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/animales-3.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "ANIMALES.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ANIMALES.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "ANTONIMOS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ANTONIMOS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "AUTOCUIDADO..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/AUTOCUIDADO..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Ayuda a Monkey_multiplicacion.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Ayuda a Monkey_multiplicacion.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "BUSCANDO EL IGUAL......pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/BUSCANDO EL IGUAL......pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "BUSQUEMOS SOMBRAS 1.ppsx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/BUSQUEMOS SOMBRAS 1.ppsx",
+      "extension": "ppsx"
+    },
+    {
+      "name": "casa1.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/casa1.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "CATEGORIA SEMANTICA TEMA ANIMALES.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/CATEGORIA SEMANTICA TEMA ANIMALES.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "CATEGORIA SEMÀNTICA..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/CATEGORIA SEMÀNTICA..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "CATEGORÍAS Y CLASIFICACIÓN_ contigo.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/CATEGORÍAS Y CLASIFICACIÓN_ contigo.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "CICLO DE VIDA SERES VIVOS..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/CICLO DE VIDA SERES VIVOS..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "CLASIFICACIÒN POR COLOR Y USO (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/CLASIFICACIÒN POR COLOR Y USO (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "CLASIFICACION, FIGURA, FORMAS Y TAMAÑOS..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/CLASIFICACION, FIGURA, FORMAS Y TAMAÑOS..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "cocina.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/cocina.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "COCODRILLO, MAYOR, MENOR O IGUAL.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/COCODRILLO, MAYOR, MENOR O IGUAL.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Colores primarios.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Colores primarios.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "colores.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/colores.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Comparto _631277-Los Animales   Hablan _ contigo.ppt",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Comparto _631277-Los Animales   Hablan _ contigo.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "Comparto _primavera-un-dos-tres_ contigo.ppsx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Comparto _primavera-un-dos-tres_ contigo.ppsx",
+      "extension": "ppsx"
+    },
+    {
+      "name": "Conciencia fonol_gica de rimas.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Conciencia fonol_gica de rimas.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "CONCIENCIA FONOLOGICA.QUE RIMA CON_._.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/CONCIENCIA FONOLOGICA.QUE RIMA CON_._.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "CONVIVENCIA SANA..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/CONVIVENCIA SANA..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Copia de ALIMENTACIÒN SALUDABLE Y CHATARRA.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Copia de ALIMENTACIÒN SALUDABLE Y CHATARRA.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "CORRESPONDENCIA TERMINO A TERMINO (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/CORRESPONDENCIA TERMINO A TERMINO (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Cuadernillo-40-Actividades-Eduación-Preescolar-3-Años.ppt",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Cuadernillo-40-Actividades-Eduación-Preescolar-3-Años.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "CUANTIFICADORES MAS Y MENOS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/CUANTIFICADORES MAS Y MENOS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "CUANTIFICADORES, MAS, MENOS, MUCHO, POCO..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/CUANTIFICADORES, MAS, MENOS, MUCHO, POCO..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "DERECHA E IZQUIERDA (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/DERECHA E IZQUIERDA (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "DESARROLLO PERSONAL LA FAMILIA (2).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/DESARROLLO PERSONAL LA FAMILIA (2).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "descomposicion mate.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/descomposicion mate.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "DESCUBRE LA PALABRA SECRETA.ppsx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/DESCUBRE LA PALABRA SECRETA.ppsx",
+      "extension": "ppsx"
+    },
+    {
+      "name": "discrimina-e-i.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/discrimina-e-i.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "discrimina-o-u.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/discrimina-o-u.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "dondesta.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/dondesta.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "EL CLIMA.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/EL CLIMA.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "el invierno(1).ppsx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/el invierno(1).ppsx",
+      "extension": "ppsx"
+    },
+    {
+      "name": "el mar.ppsx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/el mar.ppsx",
+      "extension": "ppsx"
+    },
+    {
+      "name": "EL PANADERO Y SUS NÙMEROS 1 al 20.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/EL PANADERO Y SUS NÙMEROS 1 al 20.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "EMOCIONES DE PERSONAS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/EMOCIONES DE PERSONAS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "ENCERRAR NUMEROS. SEG, SILÀBICA..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ENCERRAR NUMEROS. SEG, SILÀBICA..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "ESCONDIDO_1.ppt",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ESCONDIDO_1.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "ESCRIBE NUMERO Y SEGMENTACION SILABAS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ESCRIBE NUMERO Y SEGMENTACION SILABAS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "ESCUCHA Y ADIVINA DE QUIÉN SE TRATA_acciones.ppsx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ESCUCHA Y ADIVINA DE QUIÉN SE TRATA_acciones.ppsx",
+      "extension": "ppsx"
+    },
+    {
+      "name": "ESTACIONES DEL AÑO_.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ESTACIONES DEL AÑO_.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "EXPERIMENTO.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/EXPERIMENTO.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "FENOMENOS NATURALES 2.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/FENOMENOS NATURALES 2.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "FENOMENOS NATURALES.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/FENOMENOS NATURALES.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Gráficos, leyendo pictogramas.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Gráficos, leyendo pictogramas.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "IMPORTANCIA DEL AGUA Y ENERGIA SOLAR (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/IMPORTANCIA DEL AGUA Y ENERGIA SOLAR (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "INFERENCIAS SIMPLES PARA NIÑOS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/INFERENCIAS SIMPLES PARA NIÑOS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "INICIACION A LA LECTURA.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/INICIACION A LA LECTURA.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "INSTITUCIONES DE LA COMUNIDAD..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/INSTITUCIONES DE LA COMUNIDAD..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "INTERACTIVO COLOREA, COMPLETA Y COPIA.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/INTERACTIVO COLOREA, COMPLETA Y COPIA.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Juego 100 Alumnos Dijeron.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Juego 100 Alumnos Dijeron.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Juego boliche.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Juego boliche.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "juego de las sombras animales.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/juego de las sombras animales.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "JUEGO GATO.pptm",
+      "path": "recursos/juegos-interactivos/juegos-educativos/JUEGO GATO.pptm",
+      "extension": "pptm"
+    },
+    {
+      "name": "Juego. Una tarde en la feria.ppsx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Juego. Una tarde en la feria.ppsx",
+      "extension": "ppsx"
+    },
+    {
+      "name": "JUGANDO CON LAS SÌLABAS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/JUGANDO CON LAS SÌLABAS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "JUGANDO CON LOS NUMEROS..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/JUGANDO CON LOS NUMEROS..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "JUGUEMOS AL VEO VEO.ppsx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/JUGUEMOS AL VEO VEO.ppsx",
+      "extension": "ppsx"
+    },
+    {
+      "name": "LA CASITA DE LAS SILABAS (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LA CASITA DE LAS SILABAS (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LA FAMILIA.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LA FAMILIA.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LA NATURALEZA..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LA NATURALEZA..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LAS EMOCIONES 1.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LAS EMOCIONES 1.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LAS FIGURAS GEOMETRICAS_.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LAS FIGURAS GEOMETRICAS_.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LAS SILABAS ( SEGMENTACIÒN SILABICA) - copia.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LAS SILABAS ( SEGMENTACIÒN SILABICA) - copia.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LAS VOCALES CON IMAGENES.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LAS VOCALES CON IMAGENES.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "letra L.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/letra L.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LETRA S.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LETRA S.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LOS 5 SENTIDOS..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LOS 5 SENTIDOS..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LOS COLORES_.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LOS COLORES_.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LOS COLORES, TARRITOS DE PINTURAS..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LOS COLORES, TARRITOS DE PINTURAS..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LOS MAPAS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LOS MAPAS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LOS NUMEROS 1 AL 10, CONTEO,IDENTIFICAR Y CUANTIFICAR..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LOS NUMEROS 1 AL 10, CONTEO,IDENTIFICAR Y CUANTIFICAR..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LOS NÙMEROS 1 AL 10.  MARCIANOS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LOS NÙMEROS 1 AL 10.  MARCIANOS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LOS NÙMEROS DEL 1 AL 5 ( ELMO).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LOS NÙMEROS DEL 1 AL 5 ( ELMO).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LOS OBJETOS PARA QUE SIRVEN_._.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LOS OBJETOS PARA QUE SIRVEN_._.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "LOS OPUESTOS INGLES Y ESPAÑOL.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/LOS OPUESTOS INGLES Y ESPAÑOL.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Manipulación Fonémica Adición de Fonemas.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Manipulación Fonémica Adición de Fonemas.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Materiales_Teacch_Los_colores.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Materiales_Teacch_Los_colores.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "MEDIOS DE TRANSPORTE_.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/MEDIOS DE TRANSPORTE_.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "MEMORAMA DE ANIMALES INTERACTIVO IE.ppsx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/MEMORAMA DE ANIMALES INTERACTIVO IE.ppsx",
+      "extension": "ppsx"
+    },
+    {
+      "name": "MEMORAMA DE ANIMALES INTERACTIVO.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/MEMORAMA DE ANIMALES INTERACTIVO.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Memorama emociones.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Memorama emociones.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "MI CUERPO_(1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/MI CUERPO_(1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "MOTRICIDAD. IMITACION DE MOVIMIENTO (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/MOTRICIDAD. IMITACION DE MOVIMIENTO (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Musica primero basico 1 y 2 semana abril.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Musica primero basico 1 y 2 semana abril.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "NORMAS DE CONVIVENCIA. Dibujos..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/NORMAS DE CONVIVENCIA. Dibujos..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "NUMERO 1 Y 2 PARA NIÑOS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/NUMERO 1 Y 2 PARA NIÑOS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "NUMERO 1.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/NUMERO 1.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "numero 4.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/numero 4.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "NUMEROS 1 AL 5. DIBUJOS..pptm",
+      "path": "recursos/juegos-interactivos/juegos-educativos/NUMEROS 1 AL 5. DIBUJOS..pptm",
+      "extension": "pptm"
+    },
+    {
+      "name": "ORIENTACION TEMPORAL.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/ORIENTACION TEMPORAL.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "PARA QUE SOY  BUENO_._.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/PARA QUE SOY  BUENO_._.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "PATRONES SONOROS, VISUALES Y CORPORALES..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/PATRONES SONOROS, VISUALES Y CORPORALES..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "PATRONES VISUALES (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/PATRONES VISUALES (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Patrones.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Patrones.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "PERCEPCIÒN VISUAL_.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/PERCEPCIÒN VISUAL_.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "PPT  para EPE 2 (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/PPT  para EPE 2 (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "PPT.MES.DEL,MAR.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/PPT.MES.DEL,MAR.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "PREGUNTAS INTERACTIVAS para modificar.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/PREGUNTAS INTERACTIVAS para modificar.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "PRESENTACIÒN 1,2,3, PECES [Autoguardado].pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/PRESENTACIÒN 1,2,3, PECES [Autoguardado].pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "procesoscognitivosbasicosprincipal-110627054146-phpapp01.ppt",
+      "path": "recursos/juegos-interactivos/juegos-educativos/procesoscognitivosbasicosprincipal-110627054146-phpapp01.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "PROFESIONES Y OFICIOS..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/PROFESIONES Y OFICIOS..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "QUE EMOCION ME PRODUCE (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/QUE EMOCION ME PRODUCE (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "REPASAMOS LOS NÙMEROS. JUGANDO.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/REPASAMOS LOS NÙMEROS. JUGANDO.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "RESOLUCIÒN DE CONFLICTOS (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/RESOLUCIÒN DE CONFLICTOS (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "RESOLUCIÒN DE PROBLEMA.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/RESOLUCIÒN DE PROBLEMA.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "RESOLUCION DE PROBLEMAS SIMPLES. PUPI EL PERRITO..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/RESOLUCION DE PROBLEMAS SIMPLES. PUPI EL PERRITO..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "RIESGOS PARA NIÑOS (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/RIESGOS PARA NIÑOS (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "RIMA N º2.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/RIMA N º2.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Ruleta adivinanzas_.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Ruleta adivinanzas_.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Ruleta de bienvenida. Aprende con May.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Ruleta de bienvenida. Aprende con May.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Ruleta interactiva. Aprende con May.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Ruleta interactiva. Aprende con May.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "RULETA INTERACTIVA.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/RULETA INTERACTIVA.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "SECUENCIA NUMERICA.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/SECUENCIA NUMERICA.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "secuencias-infantil.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/secuencias-infantil.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "SEGMENTACION DE SILABAS Y ESCRIBIR EL NÙMERO.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/SEGMENTACION DE SILABAS Y ESCRIBIR EL NÙMERO.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "SEGMENTACIÒN DE SILABAS..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/SEGMENTACIÒN DE SILABAS..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "SEGMENTACIÒN DE SÌLABAS..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/SEGMENTACIÒN DE SÌLABAS..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "SEGMENTACIÒN SILABICA DE LOS ALIMENTOS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/SEGMENTACIÒN SILABICA DE LOS ALIMENTOS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "SEGMENTACION SILABICA LOS ANIMALITOS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/SEGMENTACION SILABICA LOS ANIMALITOS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "serie-razonamiento-110330071512-phpapp01.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/serie-razonamiento-110330071512-phpapp01.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "SILABA FINAL CON DIBUJOS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/SILABA FINAL CON DIBUJOS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "SILABA INICIAL ELEMENTOS..pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/SILABA INICIAL ELEMENTOS..pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "SILABA INICIAL PI, MA, FA, SA, LA.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/SILABA INICIAL PI, MA, FA, SA, LA.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "SILABA INICIAL Y ALTERNATIVA.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/SILABA INICIAL Y ALTERNATIVA.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "SILABA INICIAL.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/SILABA INICIAL.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "silabas y numero.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/silabas y numero.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "SONIDOS ONOMATOPEYICOS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/SONIDOS ONOMATOPEYICOS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Texto normativa.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Texto normativa.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "TIPOS DE EMOCIONES de personajes.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/TIPOS DE EMOCIONES de personajes.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "TIPOS DE TEXTOS LITERARIOS.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/TIPOS DE TEXTOS LITERARIOS.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "TRABALENGUAS (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/TRABALENGUAS (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "vegetales-2.ppt",
+      "path": "recursos/juegos-interactivos/juegos-educativos/vegetales-2.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "VOCAL A.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/VOCAL A.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "VOCAL E.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/VOCAL E.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "VOCAL I (1).pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/VOCAL I (1).pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Vocal I.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/Vocal I.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "VOCAL O.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/VOCAL O.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "VOCAL U.pptx",
+      "path": "recursos/juegos-interactivos/juegos-educativos/VOCAL U.pptx",
+      "extension": "pptx"
+    }
+  ],
+  "adulto-mayor": [
+    {
+      "name": "✅música-RELAJANTE-para-personas-con-ALZHEIMER-_-música-para-pacientes-con-alzheimer.mp3",
+      "path": "recursos/adulto-mayor/✅música-RELAJANTE-para-personas-con-ALZHEIMER-_-música-para-pacientes-con-alzheimer.mp3",
+      "extension": "mp3"
+    },
+    {
+      "name": "1176-Volver_a_empezar_ejercicios_practicos_de_estimulacion_cognitiva_para_enfermos_de_alzheimer.pdf",
+      "path": "recursos/adulto-mayor/1176-Volver_a_empezar_ejercicios_practicos_de_estimulacion_cognitiva_para_enfermos_de_alzheimer.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "860-SEMPA_Sistema_de_evaluacion_musicoterapeutica_para_personas_con_alzheimer_y_otras_demencias.pdf",
+      "path": "recursos/adulto-mayor/860-SEMPA_Sistema_de_evaluacion_musicoterapeutica_para_personas_con_alzheimer_y_otras_demencias.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos 1.Cuadernillo-estimulacion-cog-fis.pdf",
+      "path": "recursos/adulto-mayor/Correos electrónicos 1.Cuadernillo-estimulacion-cog-fis.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos 1.Cuadernillo-estimulacion-cog-fis(1).pdf",
+      "path": "recursos/adulto-mayor/Correos electrónicos 1.Cuadernillo-estimulacion-cog-fis(1).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos GetFichero.pdf",
+      "path": "recursos/adulto-mayor/Correos electrónicos GetFichero.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuad_Estimulacion_Cognitiva_V2.pdf",
+      "path": "recursos/adulto-mayor/Cuad_Estimulacion_Cognitiva_V2.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuadernillo Ejer Estimulación Leve2.pdf",
+      "path": "recursos/adulto-mayor/Cuadernillo Ejer Estimulación Leve2.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "cuadernomayoreshogar.pdf",
+      "path": "recursos/adulto-mayor/cuadernomayoreshogar.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ejercicios_es.pdf",
+      "path": "recursos/adulto-mayor/ejercicios_es.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "estimulacion-cognitiva-csi_editora_94_3_1.pdf",
+      "path": "recursos/adulto-mayor/estimulacion-cognitiva-csi_editora_94_3_1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "manualdeactividades.pdf",
+      "path": "recursos/adulto-mayor/manualdeactividades.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "muestra.pdf",
+      "path": "recursos/adulto-mayor/muestra.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Pautas-estimulacion-cognitiva3.pdf",
+      "path": "recursos/adulto-mayor/Pautas-estimulacion-cognitiva3.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Programa de estimulacion y mantenimiento cognitivo.pdf",
+      "path": "recursos/adulto-mayor/Programa de estimulacion y mantenimiento cognitivo.pdf",
+      "extension": "pdf"
+    }
+  ],
+  "autismo": [
+    {
+      "name": "10-cosas-que-todo-nino-con-autismo-quisiera-que-supieras.pdf",
+      "path": "recursos/autismo/10-cosas-que-todo-nino-con-autismo-quisiera-que-supieras.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Autismo-Guía-Manual-para-los-Primeros-100-Días-tras-el-diagnóstico.pdf",
+      "path": "recursos/autismo/Autismo-Guía-Manual-para-los-Primeros-100-Días-tras-el-diagnóstico.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Características-del-aprendizaje-por-imitación-en-niños-y-niñas-con-autismo.pdf",
+      "path": "recursos/autismo/Características-del-aprendizaje-por-imitación-en-niños-y-niñas-con-autismo.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Conjunto-de-habilidades-sociales-para-trabajar-la-burla-y-el-acoso-escolar-TEA-Asperger.pdf",
+      "path": "recursos/autismo/Conjunto-de-habilidades-sociales-para-trabajar-la-burla-y-el-acoso-escolar-TEA-Asperger.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos cuaderno-Actividades-para-alumnado-con-TEA-1.pdf",
+      "path": "recursos/autismo/Correos electrónicos cuaderno-Actividades-para-alumnado-con-TEA-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos Cuaderno-de-actividades-alumnado-TEA-VOL-2.pdf",
+      "path": "recursos/autismo/Correos electrónicos Cuaderno-de-actividades-alumnado-TEA-VOL-2.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos manual-de-apoyo-a-docentes_educacion-de-estudiantes-que-presentan-trastornos-del-espectro-autista.pdf",
+      "path": "recursos/autismo/Correos electrónicos manual-de-apoyo-a-docentes_educacion-de-estudiantes-que-presentan-trastornos-del-espectro-autista.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos NUMERACION-CIRCULOS.pdf",
+      "path": "recursos/autismo/Correos electrónicos NUMERACION-CIRCULOS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos RODEA-LA-FORMA_TRIANGULO.pdf",
+      "path": "recursos/autismo/Correos electrónicos RODEA-LA-FORMA_TRIANGULO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "El Dragon Chef.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/El Dragon Chef.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "El Oledor Explorador.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/El Oledor Explorador.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "El Pajarito Rosa.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/El Pajarito Rosa.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Jose en el parque.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/Jose en el parque.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Jose en el supermercado.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/Jose en el supermercado.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Jose en la calle.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/Jose en la calle.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Jose en la peluqueria.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/Jose en la peluqueria.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Jose en su cumpleaños.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/Jose en su cumpleaños.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Jose esta asustado.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/Jose esta asustado.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Jose esta contento.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/Jose esta contento.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Jose esta enfadado.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/Jose esta enfadado.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Jose esta sorprendido.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/Jose esta sorprendido.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "La bañera de José.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/La bañera de José.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "La comida de José.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/La comida de José.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "La Rana Pirata.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/La Rana Pirata.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "La ropa de José.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/La ropa de José.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Las manos de Jose.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/Las manos de Jose.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Las Pelusas se mudan de casa.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/Las Pelusas se mudan de casa.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Los dientes de José.pdf",
+      "path": "recursos/autismo/CUENTOS TEA/Los dientes de José.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FIGURAS-COLORES-Y-TAMAÑOS.pdf",
+      "path": "recursos/autismo/FIGURAS-COLORES-Y-TAMAÑOS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "guia-autismo-educadores.pdf",
+      "path": "recursos/autismo/guia-autismo-educadores.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HABILIDADES SOCIALES PARA TEA.pdf",
+      "path": "recursos/autismo/HABILIDADES SOCIALES PARA TEA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Habilidades sociales Tea .pdf",
+      "path": "recursos/autismo/Habilidades sociales Tea .pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Juegos para autistas en centros educativos.pdf",
+      "path": "recursos/autismo/Juegos para autistas en centros educativos.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "manual-de-apoyo-a-docentes_educacion-de-estudiantes-que-presentan-trastornos-del-espectro-autista.pdf",
+      "path": "recursos/autismo/manual-de-apoyo-a-docentes_educacion-de-estudiantes-que-presentan-trastornos-del-espectro-autista.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Materiales-para-la-intervención-educativa-en-contextos-naturales-con-alumnos-con-Trastornos-del-Espectro-del-Autismo.pdf",
+      "path": "recursos/autismo/Materiales-para-la-intervención-educativa-en-contextos-naturales-con-alumnos-con-Trastornos-del-Espectro-del-Autismo.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Pautas para el trabajo con autistas.pdf",
+      "path": "recursos/autismo/Pautas para el trabajo con autistas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Pautas-para-alumnos-con-TEA.pdf",
+      "path": "recursos/autismo/Pautas-para-alumnos-con-TEA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "un-nino-con-autismo-en-la-familia.pdf",
+      "path": "recursos/autismo/un-nino-con-autismo-en-la-familia.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "un-viaje-por-la-vida-a-traves-del-autismo_guia-de-los-padres-para-la-investigacion.pdf",
+      "path": "recursos/autismo/un-viaje-por-la-vida-a-traves-del-autismo_guia-de-los-padres-para-la-investigacion.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "yo_tambien_juego_teapuntas_optimizado.pdf",
+      "path": "recursos/autismo/yo_tambien_juego_teapuntas_optimizado.pdf",
+      "extension": "pdf"
+    }
+  ],
+  "super-educativo": [
+    {
+      "name": "100-FICHAS-MATEMÁTICAS_Parte1.pdf",
+      "path": "recursos/super-educativo/DISCALCULIA/100-FICHAS-MATEMÁTICAS_Parte1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "100-FICHAS-MATEMÁTICAS_Parte2.pdf",
+      "path": "recursos/super-educativo/DISCALCULIA/100-FICHAS-MATEMÁTICAS_Parte2.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "100-FICHAS-MATEMÁTICAS_Parte3.pdf",
+      "path": "recursos/super-educativo/DISCALCULIA/100-FICHAS-MATEMÁTICAS_Parte3.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Adaptaciones-en-el-aula-para-alumnos-as-con-discalculia.pdf",
+      "path": "recursos/super-educativo/DISCALCULIA/Adaptaciones-en-el-aula-para-alumnos-as-con-discalculia.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuaderno-para-desarrollar-el-pensamiento-matemático-60-paginas-PDF_Parte1.pdf",
+      "path": "recursos/super-educativo/DISCALCULIA/Cuaderno-para-desarrollar-el-pensamiento-matemático-60-paginas-PDF_Parte1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuaderno-para-desarrollar-el-pensamiento-matemático-60-paginas-PDF_Parte2.pdf",
+      "path": "recursos/super-educativo/DISCALCULIA/Cuaderno-para-desarrollar-el-pensamiento-matemático-60-paginas-PDF_Parte2.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuaderno-para-desarrollar-el-pensamiento-matemático-60-paginas-PDF_Parte3.pdf",
+      "path": "recursos/super-educativo/DISCALCULIA/Cuaderno-para-desarrollar-el-pensamiento-matemático-60-paginas-PDF_Parte3.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Discalculia. Congreso 2010.pdf",
+      "path": "recursos/super-educativo/DISCALCULIA/Discalculia. Congreso 2010.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "el-calculo-en-el-primer-ciclo-de-primaria.pdf",
+      "path": "recursos/super-educativo/DISCALCULIA/el-calculo-en-el-primer-ciclo-de-primaria.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PROBLEMAS-MATEMÁTICAS-1º-PRIMARIA.pdf",
+      "path": "recursos/super-educativo/DISCALCULIA/PROBLEMAS-MATEMÁTICAS-1º-PRIMARIA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Actividades-de-rimas-para-alumnos-con-dislexia-plantilla.docx",
+      "path": "recursos/super-educativo/Dislexia/Actividades-de-rimas-para-alumnos-con-dislexia-plantilla.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Actividades-dislexia-acortamos-oraciones-plantilla.docx",
+      "path": "recursos/super-educativo/Dislexia/Actividades-dislexia-acortamos-oraciones-plantilla.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "ACTIVIDADES-DISLEXIA-CADENA-DE-PALABRAS-plantilla-1.docx",
+      "path": "recursos/super-educativo/Dislexia/ACTIVIDADES-DISLEXIA-CADENA-DE-PALABRAS-plantilla-1.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "ACTIVIDADES-DISLEXIA-CADENA-DE-PALABRAS-plantilla.docx",
+      "path": "recursos/super-educativo/Dislexia/ACTIVIDADES-DISLEXIA-CADENA-DE-PALABRAS-plantilla.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "ACTIVIDADES-DISLEXIA-la-silaba-que-repite-en-las-palabras-PLANTILLA.pdf",
+      "path": "recursos/super-educativo/Dislexia/ACTIVIDADES-DISLEXIA-la-silaba-que-repite-en-las-palabras-PLANTILLA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ACTIVIDADES-DISLEXIA-PIRÁMIDE-DE-PALABRAS-PLANTILLA.doc",
+      "path": "recursos/super-educativo/Dislexia/ACTIVIDADES-DISLEXIA-PIRÁMIDE-DE-PALABRAS-PLANTILLA.doc",
+      "extension": "doc"
+    },
+    {
+      "name": "Colección-de-fichas-para-trabajar-la-Dislexia.pdf",
+      "path": "recursos/super-educativo/Dislexia/Colección-de-fichas-para-trabajar-la-Dislexia.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuadernillo-1-dislexia-1.pdf",
+      "path": "recursos/super-educativo/Dislexia/Cuadernillo-1-dislexia-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuadernillo-1-dislexia.pdf",
+      "path": "recursos/super-educativo/Dislexia/Cuadernillo-1-dislexia.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuadernillo-3-dislexia.pdf",
+      "path": "recursos/super-educativo/Dislexia/Cuadernillo-3-dislexia.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CUADERNO-DISLEXIA-1.pdf",
+      "path": "recursos/super-educativo/Dislexia/CUADERNO-DISLEXIA-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "dislexia-silabas-1.pdf",
+      "path": "recursos/super-educativo/Dislexia/dislexia-silabas-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Ejercicios-dislexia-Completar-palabras-con-sílabas-plantilla-1.docx",
+      "path": "recursos/super-educativo/Dislexia/Ejercicios-dislexia-Completar-palabras-con-sílabas-plantilla-1.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Ejercicios-dislexia-Completar-palabras-con-sílabas-plantilla.docx",
+      "path": "recursos/super-educativo/Dislexia/Ejercicios-dislexia-Completar-palabras-con-sílabas-plantilla.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Ejercicios-dislexia-ordenar-sílabas-para-construir-una-palabra-plantilla-1.docx",
+      "path": "recursos/super-educativo/Dislexia/Ejercicios-dislexia-ordenar-sílabas-para-construir-una-palabra-plantilla-1.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Ejercicios-dislexia-ordenar-sílabas-para-construir-una-palabra-plantilla.docx",
+      "path": "recursos/super-educativo/Dislexia/Ejercicios-dislexia-ordenar-sílabas-para-construir-una-palabra-plantilla.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Ejercicios-dislexia-Palabras-con-todas-sus-sílabas-comunes-menos-una-plantilla.docx",
+      "path": "recursos/super-educativo/Dislexia/Ejercicios-dislexia-Palabras-con-todas-sus-sílabas-comunes-menos-una-plantilla.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Ejercicios-dislexia-Palabras-Palabras-con-una-sílaba-común-plantilla.docx",
+      "path": "recursos/super-educativo/Dislexia/Ejercicios-dislexia-Palabras-Palabras-con-una-sílaba-común-plantilla.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Ejercicios-dislexia-segmentacion-de-sílabas-plantilla.docx",
+      "path": "recursos/super-educativo/Dislexia/Ejercicios-dislexia-segmentacion-de-sílabas-plantilla.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Ejercicios-para-niños-con-dislexia-Omisión-de-sílabas-plantilla.docx",
+      "path": "recursos/super-educativo/Dislexia/Ejercicios-para-niños-con-dislexia-Omisión-de-sílabas-plantilla.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Ejercicios-para-niños-con-dislexia-palabras-inventadas-plantilla.docx",
+      "path": "recursos/super-educativo/Dislexia/Ejercicios-para-niños-con-dislexia-palabras-inventadas-plantilla.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Encontrar-la-silaba-que-falta-en-cada-palabra-plantilla-corregido.pdf",
+      "path": "recursos/super-educativo/Dislexia/Encontrar-la-silaba-que-falta-en-cada-palabra-plantilla-corregido.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Fichas-para-trabajar-la-Dislexia.pdf",
+      "path": "recursos/super-educativo/Dislexia/Fichas-para-trabajar-la-Dislexia.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "recopilatorio-actividades-dislexia.pdf",
+      "path": "recursos/super-educativo/Dislexia/recopilatorio-actividades-dislexia.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "tarjetas-trabadas.pdf",
+      "path": "recursos/super-educativo/Dislexia/tarjetas-trabadas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Test-Exploratorio-de-Dislexia-Específica-TEDE-EDITABLE.doc",
+      "path": "recursos/super-educativo/Dislexia/Test-Exploratorio-de-Dislexia-Específica-TEDE-EDITABLE.doc",
+      "extension": "doc"
+    },
+    {
+      "name": "Test-Exploratorio-de-Dislexia-Específica-TEDE-EDITABLE.pdf",
+      "path": "recursos/super-educativo/Dislexia/Test-Exploratorio-de-Dislexia-Específica-TEDE-EDITABLE.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CUADERNILLO-EXPRESAR-COMPRENDER.pdf",
+      "path": "recursos/super-educativo/ESTIMULACIÓN COGNITIVA/CUADERNILLO-EXPRESAR-COMPRENDER.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuaderno_1_Fichas_Estimulación_Cognitiva-1.pdf",
+      "path": "recursos/super-educativo/ESTIMULACIÓN COGNITIVA/Cuaderno_1_Fichas_Estimulación_Cognitiva-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuaderno_1_Fichas_Estimulación_Cognitiva.pdf",
+      "path": "recursos/super-educativo/ESTIMULACIÓN COGNITIVA/Cuaderno_1_Fichas_Estimulación_Cognitiva.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuaderno_2_Fichas_Estimulación_Cognitiva.pdf",
+      "path": "recursos/super-educativo/ESTIMULACIÓN COGNITIVA/Cuaderno_2_Fichas_Estimulación_Cognitiva.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "estimulacion-cognitiva-valor-numerico.pdf",
+      "path": "recursos/super-educativo/ESTIMULACIÓN COGNITIVA/estimulacion-cognitiva-valor-numerico.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ESTIMULACIÓN-COGNITIVA-Y-ATENCIÓN-CON-COLORES-1.pdf",
+      "path": "recursos/super-educativo/ESTIMULACIÓN COGNITIVA/ESTIMULACIÓN-COGNITIVA-Y-ATENCIÓN-CON-COLORES-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CUADERNO-EXPRESION-LINGUISTICA.pdf",
+      "path": "recursos/super-educativo/ESTIMULACIÓN DE LENGUAJE/CUADERNO-EXPRESION-LINGUISTICA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ESTIMULACIÓN-DEL-LENGUAJE-con-onomatopeyas-.pdf",
+      "path": "recursos/super-educativo/ESTIMULACIÓN DE LENGUAJE/ESTIMULACIÓN-DEL-LENGUAJE-con-onomatopeyas-.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ESTIMULACIÓN-DEL-LENGUAJE-con-onomatopeyas-pictogramas.pdf",
+      "path": "recursos/super-educativo/ESTIMULACIÓN DE LENGUAJE/ESTIMULACIÓN-DEL-LENGUAJE-con-onomatopeyas-pictogramas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Sonido-de-Animales-PDF-1-5.pdf",
+      "path": "recursos/super-educativo/ESTIMULACIÓN DE LENGUAJE/Sonido-de-Animales-PDF-1-5.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Sonido-de-Animales-PDF-6-10.pdf",
+      "path": "recursos/super-educativo/ESTIMULACIÓN DE LENGUAJE/Sonido-de-Animales-PDF-6-10.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "TABLERO-ESTIMULACIÓN-LENGUAJE.pdf",
+      "path": "recursos/super-educativo/ESTIMULACIÓN DE LENGUAJE/TABLERO-ESTIMULACIÓN-LENGUAJE.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Actividades-para-trabajar-la-memoria-semántica.pdf",
+      "path": "recursos/super-educativo/MEMORIA/Actividades-para-trabajar-la-memoria-semántica.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Coleccion-Flashcards-Otono-imprenta.pdf",
+      "path": "recursos/super-educativo/MEMORIA/Coleccion-Flashcards-Otono-imprenta.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Coleccion-Flashcards-Otono.pdf",
+      "path": "recursos/super-educativo/MEMORIA/Coleccion-Flashcards-Otono.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CUADERNO-MEMORIA-Y-ATENCION.pdf",
+      "path": "recursos/super-educativo/MEMORIA/CUADERNO-MEMORIA-Y-ATENCION.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ejercicios-para-trabajar-la-memoria-1.pdf",
+      "path": "recursos/super-educativo/MEMORIA/ejercicios-para-trabajar-la-memoria-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "EJERCICIOS-PARA-TRABAJAR-LA-MEMORIA.pdf",
+      "path": "recursos/super-educativo/MEMORIA/EJERCICIOS-PARA-TRABAJAR-LA-MEMORIA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ESTIMULACIÓN-COGNITIVA-Y-ATENCIÓN-CON-COLORES.pdf",
+      "path": "recursos/super-educativo/MEMORIA/ESTIMULACIÓN-COGNITIVA-Y-ATENCIÓN-CON-COLORES.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "memoria-campos-semanticos.pdf",
+      "path": "recursos/super-educativo/MEMORIA/memoria-campos-semanticos.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MEMORIA-VISOSECUENCIAL-CON-LETRAS-.pdf",
+      "path": "recursos/super-educativo/MEMORIA/MEMORIA-VISOSECUENCIAL-CON-LETRAS-.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "taller-entrenamiento-memoria.pdf",
+      "path": "recursos/super-educativo/MEMORIA/taller-entrenamiento-memoria.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "guia-de-acercamiento-a-personas-con-paralisis-cerebral.pdf",
+      "path": "recursos/super-educativo/PARALISIS/guia-de-acercamiento-a-personas-con-paralisis-cerebral.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "guiapadres1.pdf",
+      "path": "recursos/super-educativo/PARALISIS/guiapadres1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "guiapadres2.pdf",
+      "path": "recursos/super-educativo/PARALISIS/guiapadres2.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "guiapadres4.pdf",
+      "path": "recursos/super-educativo/PARALISIS/guiapadres4.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "guiapadres5.pdf",
+      "path": "recursos/super-educativo/PARALISIS/guiapadres5.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "guiapadres6.pdf",
+      "path": "recursos/super-educativo/PARALISIS/guiapadres6.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "paralisis-cerebral-audicion-lenguaje-logopedia-fisioterapia.pdf",
+      "path": "recursos/super-educativo/PARALISIS/paralisis-cerebral-audicion-lenguaje-logopedia-fisioterapia.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "programa_motoricos-de-intervencion-completisimo.pdf",
+      "path": "recursos/super-educativo/PARALISIS/programa_motoricos-de-intervencion-completisimo.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cartilla_fotosilabica_R_suave-1.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/Cartilla_fotosilabica_R_suave-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cartilla_fotosilabica_R_suave-2.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/Cartilla_fotosilabica_R_suave-2.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "cuaderno-de-la-r.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/cuaderno-de-la-r.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "El-mapa-de-la-R.ppsx",
+      "path": "recursos/super-educativo/ROTACISMO/El-mapa-de-la-R.ppsx",
+      "extension": "ppsx"
+    },
+    {
+      "name": "LAMINAS-r-sp.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/LAMINAS-r-sp.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LAMINAS-R.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/LAMINAS-R.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "OCA-DE-LA-R-PDF-1.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/OCA-DE-LA-R-PDF-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Referentes-Silabas-Trabadas-Cursiva.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/Referentes-Silabas-Trabadas-Cursiva.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ROTACISMO-Palabras-con-R-y-RR-FICHAS-DE-TRABAJO.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/ROTACISMO-Palabras-con-R-y-RR-FICHAS-DE-TRABAJO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "silabas-inversas-fonema-R-1.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/silabas-inversas-fonema-R-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Sonido-R-imprimible.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/Sonido-R-imprimible.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "SUPER-Cuaderno-de-trabadas.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/SUPER-Cuaderno-de-trabadas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "tablero-lectura-trabadas.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/tablero-lectura-trabadas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "tarjetas-palabras-rotacismo-1.pdf",
+      "path": "recursos/super-educativo/ROTACISMO/tarjetas-palabras-rotacismo-1.pdf",
+      "extension": "pdf"
+    }
+  ],
+  "tdah": [
+    {
+      "name": "Dinamicas-para-Niños-con-TDAH-y-TEA.pdf",
+      "path": "recursos/tdha/Dinamicas-para-Niños-con-TDAH-y-TEA.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "aprende-1.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/aprende-1.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "CUADERNO-1-RAZONAMIENTO-LOGICO.pdf",
+      "path": "recursos/tdha/EJERCICIOS TDHA/CUADERNO-1-RAZONAMIENTO-LOGICO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "dondesta_11.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/dondesta_11.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "dondesta_2.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/dondesta_2.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "dondesta_3.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/dondesta_3.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "dondesta_4.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/dondesta_4.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "dondesta_5.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/dondesta_5.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "Fichas-de-Atencion-y-Memoria-1.pdf",
+      "path": "recursos/tdha/EJERCICIOS TDHA/Fichas-de-Atencion-y-Memoria-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Gimnasia-Cerebral-PDF.pdf",
+      "path": "recursos/tdha/EJERCICIOS TDHA/Gimnasia-Cerebral-PDF.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "hayunomas_2.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/hayunomas_2.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "hayunomas_3.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/hayunomas_3.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "hayunomas_4.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/hayunomas_4.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "hayunomas_8.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/hayunomas_8.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "MANUAL_DE_TECNICAS_DE_TRABAJO_INTELECTUAL.pdf",
+      "path": "recursos/tdha/EJERCICIOS TDHA/MANUAL_DE_TECNICAS_DE_TRABAJO_INTELECTUAL.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "memoria-casa.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/memoria-casa.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "memoriapalabra-1.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/memoriapalabra-1.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "memoriapalabra-2.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/memoriapalabra-2.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "recuerda_2.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/recuerda_2.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "repite-1.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/repite-1.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "secuencia-7.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/secuencia-7.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "secuencia1.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/secuencia1.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "secuencia2.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/secuencia2.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "secuencia3.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/secuencia3.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "secuencia4.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/secuencia4.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "secuencia5.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/secuencia5.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "unomas_1.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/unomas_1.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "unomas_2.ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/unomas_2.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "unomas_2(1).ppt",
+      "path": "recursos/tdha/EJERCICIOS TDHA/unomas_2(1).ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "Varios - Ejercicios de estimulación cognitiva para reforzar la memoria.pdf",
+      "path": "recursos/tdha/EJERCICIOS TDHA/Varios - Ejercicios de estimulación cognitiva para reforzar la memoria.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Copy of fichas inteligencia 1.pdf",
+      "path": "recursos/tdha/FICHAS TDHA/Copy of fichas inteligencia 1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "fichas inteligencia 1.pdf",
+      "path": "recursos/tdha/FICHAS TDHA/fichas inteligencia 1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "fichas inteligencia 2.pdf",
+      "path": "recursos/tdha/FICHAS TDHA/fichas inteligencia 2.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "fichas inteligencia 3.pdf",
+      "path": "recursos/tdha/FICHAS TDHA/fichas inteligencia 3.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "fichas inteligencia 4.pdf",
+      "path": "recursos/tdha/FICHAS TDHA/fichas inteligencia 4.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "fichas inteligencia 5.pdf",
+      "path": "recursos/tdha/FICHAS TDHA/fichas inteligencia 5.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "fichas inteligencia 6.pdf",
+      "path": "recursos/tdha/FICHAS TDHA/fichas inteligencia 6.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "01-cognitiva-go-no-go-primaria-eso.ppt.pps",
+      "path": "recursos/tdha/GO NO GO/01-cognitiva-go-no-go-primaria-eso.ppt.pps",
+      "extension": "pps"
+    },
+    {
+      "name": "08-infantil-Go-No-Go-Infantil.pps",
+      "path": "recursos/tdha/GO NO GO/08-infantil-Go-No-Go-Infantil.pps",
+      "extension": "pps"
+    },
+    {
+      "name": "Programa-de-entrenamiento-para-mejorar-atención-y-memoria-auditiva..pdf",
+      "path": "recursos/tdha/GO NO GO/Programa-de-entrenamiento-para-mejorar-atención-y-memoria-auditiva..pdf",
+      "extension": "pdf"
+    }
+  ],
+  "sindrome-down": [
+    {
+      "name": "HABILIDADES SOCIALES EN DOWN.pdf",
+      "path": "recursos/sindrome-down/HABILIDADES SOCIALES EN DOWN.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "07 Fichas Cap_7 Lectura 1a Etapa.ppt",
+      "path": "recursos/sindrome-down/Lecto Escritura para Down - Troncoso/07 Fichas Cap_7 Lectura 1a Etapa.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "08 Fichas Cap_8 Lectura 2a Etapa.ppt",
+      "path": "recursos/sindrome-down/Lecto Escritura para Down - Troncoso/08 Fichas Cap_8 Lectura 2a Etapa.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "09 Fichas Cap_9 Lectura 3a Etapa.ppt",
+      "path": "recursos/sindrome-down/Lecto Escritura para Down - Troncoso/09 Fichas Cap_9 Lectura 3a Etapa.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "11 Fichas Cap_11 Escritura At´n Temprana y 1a Etapa.ppt",
+      "path": "recursos/sindrome-down/Lecto Escritura para Down - Troncoso/11 Fichas Cap_11 Escritura At´n Temprana y 1a Etapa.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "12 Fichas Cap_12 Escritura 2a Etapa.ppt",
+      "path": "recursos/sindrome-down/Lecto Escritura para Down - Troncoso/12 Fichas Cap_12 Escritura 2a Etapa.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "Palabra + palabras (Cuadernillo Alumno_1a_Etapa).pdf",
+      "path": "recursos/sindrome-down/Lecto Escritura para Down - Troncoso/Palabra + palabras (Cuadernillo Alumno_1a_Etapa).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Palabra + palabras (Cuadernillo Alumno_2a_Etapa).pdf",
+      "path": "recursos/sindrome-down/Lecto Escritura para Down - Troncoso/Palabra + palabras (Cuadernillo Alumno_2a_Etapa).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Palabra + palabras (Cuadernillo Alumno_3_y_4_Etapa).pdf",
+      "path": "recursos/sindrome-down/Lecto Escritura para Down - Troncoso/Palabra + palabras (Cuadernillo Alumno_3_y_4_Etapa).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PATERNIDAD Y SINDROME DE DOWN 82.pdf",
+      "path": "recursos/sindrome-down/PATERNIDAD Y SINDROME DE DOWN 82.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Síndrome de Down habilidades tempranas de comunicación 371.pdf",
+      "path": "recursos/sindrome-down/Síndrome de Down habilidades tempranas de comunicación 371.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "SÍNDROME DE DOWN metodo troncoso.pdf · versión 1.pdf",
+      "path": "recursos/sindrome-down/SÍNDROME DE DOWN metodo troncoso.pdf · versión 1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tengo un alumno con Síndrome de Down_ Estrategias de intervención educativa - Sonsoles Perpinan 223.pdf",
+      "path": "recursos/sindrome-down/Tengo un alumno con Síndrome de Down_ Estrategias de intervención educativa - Sonsoles Perpinan 223.pdf",
+      "extension": "pdf"
+    }
+  ],
+  "terapia-lenguaje": [
+    {
+      "name": "1PCA-ACT.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/1PCA-ACT.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "2PRIM-COM-ACT.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/2PRIM-COM-ACT.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "4PRIM-COM-ACT.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/4PRIM-COM-ACT.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "5PRIM-COM-ACT.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/5PRIM-COM-ACT.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HAB-COM-3A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/HAB-COM-3A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HAB-COM-4A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/HAB-COM-4A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HAB-COM-5A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/HAB-COM-5A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HAB-MAT-3A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/HAB-MAT-3A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HAB-MAT-4A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/HAB-MAT-4A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "HAB-MAT-5A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/HAB-MAT-5A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "INGLES-3A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/INGLES-3A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "INGLES-4A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/INGLES-4A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "INGLES-5A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/INGLES-5A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LIBRO 2 A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/LIBRO 2 A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LIBRO 2 A(1).pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/LIBRO 2 A(1).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Libro_3p mate actividades.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/Libro_3p mate actividades.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Libro_3p mate area.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/Libro_3p mate area.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Libro_6p mate actividades.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/Libro_6p mate actividades.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Libro_6p mate area.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/Libro_6p mate area.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PS-CA-3A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/PS-CA-3A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PS-CA-4A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/PS-CA-4A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "PS-CA-5A.pdf",
+      "path": "recursos/terapia-lenguaje/COREFO/PS-CA-5A.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuadernillo-40-Actividades-Eduación-Preescolar-5-Años (1).pdf",
+      "path": "recursos/terapia-lenguaje/CUADERNILLO DE ACTIVIDADES/Cuadernillo-40-Actividades-Eduación-Preescolar-5-Años (1).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuaderno-de-Actividades-Verano-4-años.pdf",
+      "path": "recursos/terapia-lenguaje/CUADERNO PARA 4 AÑOS/Cuaderno-de-Actividades-Verano-4-años.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Copia de 101-Dalmatas.pdf",
+      "path": "recursos/terapia-lenguaje/CUENTOS DIVERTIDOS/Copia de 101-Dalmatas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Copia de Alicia-en-el-Pais-de-las-Maravillas.pdf",
+      "path": "recursos/terapia-lenguaje/CUENTOS DIVERTIDOS/Copia de Alicia-en-el-Pais-de-las-Maravillas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Copia de Basil-el-raton-superdetective.pdf",
+      "path": "recursos/terapia-lenguaje/CUENTOS DIVERTIDOS/Copia de Basil-el-raton-superdetective.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Copia de Blancanieves-y-los-Siete-Enanitos.pdf",
+      "path": "recursos/terapia-lenguaje/CUENTOS DIVERTIDOS/Copia de Blancanieves-y-los-Siete-Enanitos.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Copia de Disney Walt - Bambi.pdf",
+      "path": "recursos/terapia-lenguaje/CUENTOS DIVERTIDOS/Copia de Disney Walt - Bambi.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Copia de Disney Walt - Pocahontas.pdf",
+      "path": "recursos/terapia-lenguaje/CUENTOS DIVERTIDOS/Copia de Disney Walt - Pocahontas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Copia de Los_Rescatadores_en_Cangurolandia.pdf",
+      "path": "recursos/terapia-lenguaje/CUENTOS DIVERTIDOS/Copia de Los_Rescatadores_en_Cangurolandia.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Fichas-de-Grafomotricidad.pdf1",
+      "path": "recursos/terapia-lenguaje/FICHAS DE MOTRICIDAD/Fichas-de-Grafomotricidad.pdf1",
+      "extension": "pdf1"
+    },
+    {
+      "name": "fonema R.pdf",
+      "path": "recursos/terapia-lenguaje/fonema R.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FICHAS-DE-GRAFOMOTRICIDAD-4-AÑOS.pdf",
+      "path": "recursos/terapia-lenguaje/GRAFOMOTRICIDAD 4 AÑOS/FICHAS-DE-GRAFOMOTRICIDAD-4-AÑOS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FICHAS-DE-GRAFOMOTRICIDAD-4-AÑOS(1) (1).pdf",
+      "path": "recursos/terapia-lenguaje/GRAFOMOTRICIDAD 4 AÑOS/FICHAS-DE-GRAFOMOTRICIDAD-4-AÑOS(1) (1).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "07 Fichas Cap_7 Lectura 1a Etapa.ppt",
+      "path": "recursos/terapia-lenguaje/LECTO ESCRITURA - DOWN/07 Fichas Cap_7 Lectura 1a Etapa.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "08 Fichas Cap_8 Lectura 2a Etapa.ppt",
+      "path": "recursos/terapia-lenguaje/LECTO ESCRITURA - DOWN/08 Fichas Cap_8 Lectura 2a Etapa.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "09 Fichas Cap_9 Lectura 3a Etapa.ppt",
+      "path": "recursos/terapia-lenguaje/LECTO ESCRITURA - DOWN/09 Fichas Cap_9 Lectura 3a Etapa.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "11 Fichas Cap_11 Escritura At´n Temprana y 1a Etapa.ppt",
+      "path": "recursos/terapia-lenguaje/LECTO ESCRITURA - DOWN/11 Fichas Cap_11 Escritura At´n Temprana y 1a Etapa.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "12 Fichas Cap_12 Escritura 2a Etapa.ppt",
+      "path": "recursos/terapia-lenguaje/LECTO ESCRITURA - DOWN/12 Fichas Cap_12 Escritura 2a Etapa.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "Manual_Estudiantes_Etapas_3y4 diarioeducacion.pdf",
+      "path": "recursos/terapia-lenguaje/LECTO ESCRITURA - DOWN/Manual_Estudiantes_Etapas_3y4 diarioeducacion.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Palabra + palabras (Cuadernillo Alumno_1a_Etapa).pdf",
+      "path": "recursos/terapia-lenguaje/LECTO ESCRITURA - DOWN/Palabra + palabras (Cuadernillo Alumno_1a_Etapa).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Palabra + palabras (Cuadernillo Alumno_2a_Etapa).pdf",
+      "path": "recursos/terapia-lenguaje/LECTO ESCRITURA - DOWN/Palabra + palabras (Cuadernillo Alumno_2a_Etapa).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Abecedario_ABC_fonologico.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 1/Abecedario_ABC_fonologico.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CuentosPraxias.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 1/CuentosPraxias.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "DILODILO 2020 (1).pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 1/DILODILO 2020 (1).pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ERAL_Ejercicios_Repaso_Audicion_y_Lenguaje.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 1/ERAL_Ejercicios_Repaso_Audicion_y_Lenguaje.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ESTIMULACION PEPITO.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 1/ESTIMULACION PEPITO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "GUIA PRACTICA TERAPIA DE LENGUAJE.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 1/GUIA PRACTICA TERAPIA DE LENGUAJE.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Juego_Ruleta_Praxias_orofaciales.pptx",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 1/Juego_Ruleta_Praxias_orofaciales.pptx",
+      "extension": "pptx"
+    },
+    {
+      "name": "Praxias_buco-fonatorias.ppt",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 1/Praxias_buco-fonatorias.ppt",
+      "extension": "ppt"
+    },
+    {
+      "name": "Praxias_reverso_tarjetas.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 1/Praxias_reverso_tarjetas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Praxias_tarjetas.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 1/Praxias_tarjetas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Juego_Comecocos_parlanchines.docx",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Juego_Comecocos_parlanchines.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Juego_Comecocos_parlanchines.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Juego_Comecocos_parlanchines.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Memory_R.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Memory_R.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Memory_reverso_tarjetas.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Memory_reverso_tarjetas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Memory_Sinfones_L.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Memory_Sinfones_L.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Memory_Sinfones_R.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Memory_Sinfones_R.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Praxias_tarjetas.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Praxias_tarjetas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Registro_praxias.doc",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Registro_praxias.doc",
+      "extension": "doc"
+    },
+    {
+      "name": "Respiracion_reverso_tarjetas.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Respiracion_reverso_tarjetas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Respiracion_tarjetas.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Respiracion_tarjetas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Soplo_reverso_tarjetas.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Soplo_reverso_tarjetas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Soplo_tarjetas.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Soplo_tarjetas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "tablero silabas trabadas.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/tablero silabas trabadas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_B.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_B.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_D.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_D.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_F.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_F.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_G.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_G.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_J.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_J.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_K.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_K.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_L.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_L.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_LL.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_LL.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_M.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_M.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_N.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_N.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_NY.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_NY.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_P.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_P.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_R.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_R.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_RR.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_RR.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_S.docx",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_S.docx",
+      "extension": "docx"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_T.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_T.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Tablero_Articulacion_Fonema_Z.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Tablero_Articulacion_Fonema_Z.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "TABLERO_PARCHIS.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/TABLERO_PARCHIS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Trabalenguas_R_simple_y_R_vibrante.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Trabalenguas_R_simple_y_R_vibrante.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Trabalenguas_sinfones_L.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Trabalenguas_sinfones_L.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Trabalenguas_sinfones_R.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE CARPETA 2/Trabalenguas_sinfones_R.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "ANAMNESIS.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE I/ANAMNESIS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Hitos del desarrollo del lenguaje 0 - 7 años por NDL.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE I/Hitos del desarrollo del lenguaje 0 - 7 años por NDL.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "IMPRIMIR PARA EL CUADERNO MODELO I.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE I/IMPRIMIR PARA EL CUADERNO MODELO I.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "LÁMINAS DE ONOMATOPEYAS.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE I/LÁMINAS DE ONOMATOPEYAS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Onomatopeyas y posicion tipo.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE I/Onomatopeyas y posicion tipo.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "TEST DE QUIROZ COMPLETO.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE I/TEST DE QUIROZ COMPLETO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "9. Material VI Praxias de niños y niñas.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE II/9. Material VI Praxias de niños y niñas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Álbum de vocabulario.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE II/Álbum de vocabulario.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Casitas semanticas.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE II/Casitas semanticas.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Cuadernillo para trabajo en niños 2-3 años-convertido.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE II/Cuadernillo para trabajo en niños 2-3 años-convertido.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "FICHA DEL TEST DE MELGAR.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE II/FICHA DEL TEST DE MELGAR.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "IMPRIMIR PARA EL CUADERNO_MODELO.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE II/IMPRIMIR PARA EL CUADERNO_MODELO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MATERIAL PARA ESTIMULAR PRAXIAS.pdf",
+      "path": "recursos/terapia-lenguaje/LENGUAJE II/MATERIAL PARA ESTIMULAR PRAXIAS.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "coquito clasico-1.pdf",
+      "path": "recursos/terapia-lenguaje/LIBROS/coquito clasico-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "coquito escolar-1.pdf",
+      "path": "recursos/terapia-lenguaje/LIBROS/coquito escolar-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "coquito prematematica n3-1.pdf",
+      "path": "recursos/terapia-lenguaje/LIBROS/coquito prematematica n3-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "coquito razonamienti verbal 3-1.pdf",
+      "path": "recursos/terapia-lenguaje/LIBROS/coquito razonamienti verbal 3-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "coquito.pdf",
+      "path": "recursos/terapia-lenguaje/LIBROS/coquito.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "CUADERNO-1-RAZONAMIENTO-LOGICO.pdf",
+      "path": "recursos/terapia-lenguaje/LIBROS/CUADERNO-1-RAZONAMIENTO-LOGICO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "escritura coquito.pdf",
+      "path": "recursos/terapia-lenguaje/LIBROS/escritura coquito.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Fichas-de-Atencion-y-Memoria-1.pdf",
+      "path": "recursos/terapia-lenguaje/LIBROS/Fichas-de-Atencion-y-Memoria-1.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Gimnasia-Cerebral-PDF.pdf",
+      "path": "recursos/terapia-lenguaje/LIBROS/Gimnasia-Cerebral-PDF.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "MANUAL_DE_TECNICAS_DE_TRABAJO_INTELECTUAL.pdf",
+      "path": "recursos/terapia-lenguaje/LIBROS/MANUAL_DE_TECNICAS_DE_TRABAJO_INTELECTUAL.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "vamos a dibujar.pdf",
+      "path": "recursos/terapia-lenguaje/LIBROS/vamos a dibujar.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Varios - Ejercicios de estimulación cognitiva para reforzar la memoria.pdf",
+      "path": "recursos/terapia-lenguaje/LIBROS/Varios - Ejercicios de estimulación cognitiva para reforzar la memoria.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Correos electrónicos Libro_DisfemiaGuiaDeApoyo DEFINITIVO.pdf",
+      "path": "recursos/terapia-lenguaje/TARTAMUDEZ/Correos electrónicos Libro_DisfemiaGuiaDeApoyo DEFINITIVO.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Ejercicios-para-trabajar-la-tartamudez.pdf",
+      "path": "recursos/terapia-lenguaje/TARTAMUDEZ/Ejercicios-para-trabajar-la-tartamudez.pdf",
+      "extension": "pdf"
+    },
+    {
+      "name": "Terapia_Global.pdf",
+      "path": "recursos/terapia-lenguaje/TARTAMUDEZ/Terapia_Global.pdf",
+      "extension": "pdf"
+    }
+  ]
+};

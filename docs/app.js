@@ -57,9 +57,13 @@ function localResourceUrl(path) {
   return `${prefix}${encodedPath(path)}`;
 }
 
+function downloadResourceUrl(path) {
+  return window.location.protocol === "file:" ? localResourceUrl(path) : githubRawUrl(path);
+}
+
 function previewUrl(file) {
   if (file.preview) return file.preview;
-  if (["jpg", "jpeg", "png", "gif", "webp"].includes(file.extension)) return localResourceUrl(file.path);
+  if (["jpg", "jpeg", "png", "gif", "webp"].includes(file.extension)) return downloadResourceUrl(file.path);
   return "";
 }
 
@@ -138,7 +142,7 @@ function fileCard(file) {
         <p class="file-size">${escapeHtml(file.size || "Archivo digital")}</p>
         <p class="file-location" title="${path}">${location}</p>
         <div class="file-card-actions">
-          <a class="download-link" href="${escapeHtml(localResourceUrl(file.path))}" download><span aria-hidden="true">⇩</span> Descargar</a>
+          <a class="download-link" href="${escapeHtml(downloadResourceUrl(file.path))}" download><span aria-hidden="true">⇩</span> Descargar</a>
         </div>
       </div>
     </article>`;
